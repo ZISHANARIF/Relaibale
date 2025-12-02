@@ -3,253 +3,324 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Testimonial Section with Swiper</title>
+    <title>Careers at IBH India</title>
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- FontAwesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <!-- Swiper CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <style>
+        :root {
+            --brand-blue: #003366; /* Deep Navy from screenshot */
+            --brand-hover: #002244;
+            --text-dark: #333;
+            --text-light: #666;
+            --bg-light: #f8f9fa;
+        }
+
         body {
-            font-family: 'Roboto', sans-serif;
-            background-color: #fff;
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+        }
+
+        /* --- Hero Section --- */
+        .career-hero {
+            background: linear-gradient(135deg, var(--brand-blue) 0%, #001f3f 100%);
+            color: white;
+            padding: 80px 0;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .career-hero h1 {
+            font-weight: 700;
+            font-size: 2.5rem;
+            margin-bottom: 15px;
+        }
+        
+        .career-hero p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* --- Job Accordion Styling --- */
+        .job-card {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+            transition: box-shadow 0.3s ease;
+        }
+
+        .job-card:hover {
+            box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+        }
+
+        /* The clickable Header */
+        .job-header {
+            background-color: var(--brand-blue);
+            color: white;
+            padding: 15px 25px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            transition: background-color 0.3s;
+        }
+
+        .job-header:hover {
+            background-color: var(--brand-hover);
+        }
+
+        .job-title {
+            font-size: 1.1rem;
+            font-weight: 600;
             margin: 0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .toggle-icon {
+            font-size: 1.2rem;
+            transition: transform 0.3s ease;
+        }
+
+        /* Rotates icon when open (handled by Bootstrap collapse) */
+        .job-header[aria-expanded="true"] .toggle-icon {
+            transform: rotate(180deg); 
+        }
+
+        /* Content Body */
+        .job-body {
+            padding: 30px;
+        }
+
+        .job-description-text {
+            color: #555;
+            line-height: 1.7;
+            margin-bottom: 25px;
+        }
+
+        .job-section-title {
+            color: var(--brand-blue);
+            font-weight: 700;
+            font-size: 1.05rem;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 8px;
+            display: inline-block;
+        }
+
+        .job-list {
+            list-style: none;
             padding: 0;
         }
 
-        section.main-wrapper-sticky {
- height: auto;
-}
-@media only screen and (max-width: 1199px) {
-  section.main-wrapper-sticky {
-    height: auto;
-  }
-}
-section.main-wrapper-sticky .sticky-statement {
-  background: #F2F2F2;
-  padding: 43px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 40px;
-  position: sticky;
-  top: 150px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left center;
-  transition: 0.3s;
-  background-image: none;
-}
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-  section.main-wrapper-sticky .sticky-statement {
-    flex-wrap: wrap;
-    gap: 25px;
-  }
-}
-@media only screen and (max-width: 767px) {
-  section.main-wrapper-sticky .sticky-statement {
-    flex-wrap: wrap;
-    gap: 25px;
-    padding: 20px;
-  }
-}
-section.main-wrapper-sticky .sticky-statement * {
-  transition: 0.3s;
-}
-section.main-wrapper-sticky .sticky-statement:hover {
-  background-image: url(../images/service/06.webp);
-  background-position: center center;
-}
-section.main-wrapper-sticky .sticky-statement:hover .left-side img {
-  filter: brightness(0) saturate(100%) invert(97%) sepia(97%) saturate(0%) hue-rotate(325deg) brightness(102%) contrast(100%);
-}
-section.main-wrapper-sticky .sticky-statement:hover * {
-  color: #fff;
-}
-section.main-wrapper-sticky .sticky-statement:hover .right .arrow {
-  background: #fff;
-}
-section.main-wrapper-sticky .sticky-statement:hover .right .arrow i {
-  color: #1C2539;
-}
-section.main-wrapper-sticky .sticky-statement:last-child {
-  top: 30px !important;
-  margin-bottom: 0;
-}
-section.main-wrapper-sticky .sticky-statement .left-side {
-  display: flex;
-  align-items: center;
-  gap: 50px;
-  flex-basis: 36%;
-}
-@media only screen and (min-width: 1200px) and (max-width: 1599px) {
-  section.main-wrapper-sticky .sticky-statement .left-side {
-    gap: 25px;
-  }
-}
-@media only screen and (max-width: 1199px) {
-  section.main-wrapper-sticky .sticky-statement .left-side {
-    gap: 10px;
-  }
-}
-@media only screen and (max-width: 767px) {
-  section.main-wrapper-sticky .sticky-statement .left-side {
-    flex-basis: 100%;
-  }
-}
-@media only screen and (max-width: 479px) {
-  section.main-wrapper-sticky .sticky-statement .left-side {
-    gap: 18px;
-  }
-}
-section.main-wrapper-sticky .sticky-statement .left-side .title {
-  margin: 0;
-}
-section.main-wrapper-sticky .sticky-statement .right {
-  flex-basis: 65%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-@media only screen and (max-width: 991px) {
-  section.main-wrapper-sticky .sticky-statement .right {
-    flex-basis: 100%;
-  }
-}
-@media only screen and (max-width: 767px) {
-  section.main-wrapper-sticky .sticky-statement .right {
-    flex-basis: 100%;
-  }
-}
-@media only screen and (max-width: 575px) {
-  section.main-wrapper-sticky .sticky-statement .right {
-    flex-direction: column;
-    gap: 15px;
-    align-items: flex-start;
-  }
-}
-section.main-wrapper-sticky .sticky-statement .right p {
-  margin: 0;
-  max-width: 70%;
-}
-@media only screen and (max-width: 575px) {
-  section.main-wrapper-sticky .sticky-statement .right p {
-    max-width: 100%;
-  }
-}
-section.main-wrapper-sticky .sticky-statement .right .arrow {
-  height: 62px;
-  width: 62px;
-  background: #20282D;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-@media only screen and (max-width: 575px) {
-  section.main-wrapper-sticky .sticky-statement .right .arrow {
-    height: 40px;
-    width: 40px;
-  }
-}
-section.main-wrapper-sticky .sticky-statement .right .arrow i {
-  font-size: 18px;
-  color: #FFFFFF;
-}
+        .job-list li {
+            position: relative;
+            padding-left: 25px;
+            margin-bottom: 10px;
+            color: #444;
+            font-size: 0.95rem;
+        }
+
+        .job-list li::before {
+            content: "\f00c"; /* FontAwesome Check */
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            color: var(--brand-blue);
+            position: absolute;
+            left: 0;
+            top: 2px;
+            font-size: 0.8rem;
+        }
+
+        /* Metadata Badge Row (Enhanced) */
+        .meta-badges {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .meta-tag {
+            background: #f0f4f8;
+            color: var(--brand-blue);
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* Apply Button */
+        .apply-btn {
+            background-color: var(--brand-blue);
+            color: white;
+            padding: 10px 25px;
+            border: none;
+            border-radius: 4px;
+            font-weight: 500;
+            margin-top: 20px;
+            display: inline-block;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+        .apply-btn:hover {
+            background-color: var(--brand-hover);
+            transform: translateY(-2px);
+            color: white;
+            box-shadow: 0 4px 12px rgba(0, 51, 102, 0.3);
+        }
 
     </style>
 </head>
 <body>
 
-
-     <!-- rts latest service area start -->
-    <div class="rts-latest-service-area rts-section-gapBottom">
+    <!-- Header / Hero -->
+    <header class="career-hero">
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="title-style-one center">
-                        <span class="pre">Our Latest Services</span>
-                        <h2 class="title rts-text-anime-style-1">Service We Provide
-                        </h2>
+            <h1>Join Our Team</h1>
+            <p>We are always looking for talented people to help us build the future of business.</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container" style="max-width: 900px;">
+        
+        <h3 class="mb-4 text-center fw-bold" style="color: var(--brand-blue);">Open Positions</h3>
+
+        <!-- Job Item 1 (Sales Executive - From Screenshot) -->
+        <div class="job-card">
+            <div class="job-header" data-bs-toggle="collapse" data-bs-target="#job1" aria-expanded="true">
+                <h2 class="job-title">
+                    <i class="fa-solid fa-briefcase"></i> Sales Executive
+                </h2>
+                <i class="fa-solid fa-minus toggle-icon"></i>
+            </div>
+
+            <!-- Add 'show' class to keep it open by default like screenshot -->
+            <div id="job1" class="collapse show">
+                <div class="job-body">
+                    
+                    <!-- Enhanced Metadata Row -->
+                    <div class="meta-badges">
+                        <span class="meta-tag"><i class="fa-solid fa-location-dot"></i> Mumbai, India</span>
+                        <span class="meta-tag"><i class="fa-solid fa-clock"></i> Full Time</span>
+                        <span class="meta-tag"><i class="fa-solid fa-briefcase"></i> 1-3 Years Exp</span>
                     </div>
-                </div>
-                <div class="col-lg-12 mt--50">
-                    <section class="main-wrapper-sticky">
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/01.svg" alt="service">
-                                </div>
-                                <h5 class="title">Business Solution</h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    comprehensive set of strategies, tools, technologies, and processes challenges,
-                                    optimize operations, and drive business growth.
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/02.svg" alt="service">
-                                </div>
-                                <h5 class="title">Creative Ideas</h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    comprehensive set of strategies, tools, technologies, and processes challenges,
-                                    optimize operations, and drive business growth.
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/03.svg" alt="service">
-                                </div>
-                                <h5 class="title">Market Research</h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    comprehensive set of strategies, tools, technologies, and processes challenges,
-                                    optimize operations, and drive business growth.
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="sticky-statement">
-                            <div class="left-side">
-                                <div class="icon">
-                                    <img src="assets/images/service/01.svg" alt="service">
-                                </div>
-                                <h5 class="title">Technology Solution</h5>
-                            </div>
-                            <div class="right">
-                                <p class="disc">
-                                    comprehensive set of strategies, tools, technologies, and processes challenges,
-                                    optimize operations, and drive business growth.
-                                </p>
-                                <a href="#" class="arrow">
-                                    <i class="fa-regular fa-arrow-right"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </section>
+
+                    <p class="job-description-text">
+                        IBH India is looking for a competitive and trustworthy Sales Executive to help us build up our business activities. You will be responsible for discovering and pursuing new sales prospects and maintaining customer satisfaction. The candidate is required to have a thorough understanding of marketing and negotiating techniques, should be a fast learner and have passion for sales. He/She should be self-motivated with a results-driven approach.
+                    </p>
+
+                    <h4 class="job-section-title">Job Description</h4>
+                    <ul class="job-list">
+                        <li>Conducting market research to identify selling possibilities and evaluate customer needs.</li>
+                        <li>Set up meetings with potential clients and listen to their wishes and concerns.</li>
+                        <li>Organising sales visits to existing clients and maintaining customer satisfaction.</li>
+                        <li>Establishing new business.</li>
+                        <li>Negotiating contracts and packages with the help of seniors.</li>
+                        <li>Aiming to achieve monthly or annual targets.</li>
+                    </ul>
+
+                    <a href="#" class="apply-btn">Apply Now</a>
                 </div>
             </div>
         </div>
+
+        <!-- Job Item 2 (Dummy Example to show list) -->
+        <div class="job-card">
+            <!-- Collapsed by default -->
+            <div class="job-header collapsed" data-bs-toggle="collapse" data-bs-target="#job2" aria-expanded="false">
+                <h2 class="job-title">
+                    <i class="fa-solid fa-bullhorn"></i> Digital Marketing Manager
+                </h2>
+                <i class="fa-solid fa-plus toggle-icon"></i>
+            </div>
+
+            <div id="job2" class="collapse">
+                <div class="job-body">
+                    <div class="meta-badges">
+                        <span class="meta-tag"><i class="fa-solid fa-location-dot"></i> Remote / Hybrid</span>
+                        <span class="meta-tag"><i class="fa-solid fa-clock"></i> Full Time</span>
+                        <span class="meta-tag"><i class="fa-solid fa-briefcase"></i> 3+ Years Exp</span>
+                    </div>
+
+                    <p class="job-description-text">
+                        We are seeking a Digital Marketing Manager to oversee our online marketing strategies. You will lead marketing campaigns, evaluate performance metrics, and collaborate with internal teams.
+                    </p>
+
+                    <h4 class="job-section-title">Job Description</h4>
+                    <ul class="job-list">
+                        <li>Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns.</li>
+                        <li>Design, build and maintain our social media presence.</li>
+                        <li>Measure and report performance of all digital marketing campaigns.</li>
+                    </ul>
+
+                    <a href="#" class="apply-btn">Apply Now</a>
+                </div>
+            </div>
+        </div>
+
     </div>
+    
+    <!-- Spacing for bottom -->
+    <div style="height: 100px;"></div>
+
+    <!-- Bootstrap Bundle JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom Script to toggle Plus/Minus Icons -->
+    <script>
+        const jobHeaders = document.querySelectorAll('.job-header');
+        
+        jobHeaders.forEach(header => {
+            header.addEventListener('click', function() {
+                const icon = this.querySelector('.toggle-icon');
+                const isExpanded = this.getAttribute('aria-expanded') === 'true';
+                
+                // Toggle between Plus and Minus icons based on state
+                // Note: Bootstrap toggles aria-expanded AFTER the click, so we invert logic slightly or just swap classes
+                if (icon.classList.contains('fa-minus')) {
+                    icon.classList.replace('fa-minus', 'fa-plus');
+                } else {
+                    icon.classList.replace('fa-plus', 'fa-minus');
+                }
+            });
+        });
+
+        // Ensure logic works when one closes and another opens (Accordion behavior if enabled)
+        // For simple independent toggles, the above click listener visually swaps them. 
+        // To be strictly correct with Bootstrap events:
+        
+        const collapses = document.querySelectorAll('.collapse');
+        collapses.forEach(collapse => {
+            collapse.addEventListener('show.bs.collapse', event => {
+                const trigger = document.querySelector(`[data-bs-target="#${event.target.id}"]`);
+                const icon = trigger.querySelector('.toggle-icon');
+                icon.classList.remove('fa-plus');
+                icon.classList.add('fa-minus');
+            });
+            
+            collapse.addEventListener('hide.bs.collapse', event => {
+                const trigger = document.querySelector(`[data-bs-target="#${event.target.id}"]`);
+                const icon = trigger.querySelector('.toggle-icon');
+                icon.classList.remove('fa-minus');
+                icon.classList.add('fa-plus');
+            });
+        });
+    </script>
 </body>
 </html>

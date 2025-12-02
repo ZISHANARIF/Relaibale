@@ -18,13 +18,13 @@
     <main>
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
-        <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
-                <div class="sub-tt">System magic</div>
-                <div class="tt">System</div>
-            </div>
-        </div>
+    <div class="img-breadcum">
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/1006169700/photo/repairman-checking-voltage-with-digital-multimeter.jpg?s=612x612&w=0&k=20&c=XsSFNl68i6oTtSQQNo3K2Zur2TGuS5CZL233pSZa4rE=" title="About Us" alt="About Us" />
+        <div class="sub-tt">ESD Products and SMT Consumables Supplier in India</div>
+        <div class="tt">ESD Products supplier in India</div>
+      </div>
+    </div>
         <div class="breadcum-sec">
             <div class="container">
                 <ul>
@@ -47,7 +47,7 @@
                                 <div class="product-image-main text-center">
 
                                     <div class="image-container">
-                                        <img src="https://html.rrdevs.net/printfix/assets/imgs/shop-details/shop-details-img.png" class="main-img" alt="oratory Research">
+                                        <img src="https://media.istockphoto.com/id/514264952/photo/sensor-scanning.jpg?s=612x612&w=0&k=20&c=0Mao-hqpdQG1HT2pyX4_cutWMLbYOaWH2fMJC-r4J2o=" class="main-img" alt="oratory Research">
                                     </div>
                                 </div>
                             </div>
@@ -75,46 +75,40 @@
 
 
                         <div class="col-lg-12">
-                            <div class="product-description leadseo">
-                                <h2>T-Shirt Printing Manufacturer in Dubai</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                                <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                    This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                    identity stand out with every wear.</p>
+                            <div class="product-description leadseo aboutind">
+                               
+                                <h1>ESD Products – Static Protection You Can Trust</h1>
+                                <p>As a Leading <strong>ESD Products and SMT Consumables Supplier in India</strong>, we have built a strong reputation for quality, safety, and performance in the electronics manufacturing industry. Every ESD product and SMT consumable we supply is designed to protect sensitive components and maintain consistent production efficiency across industries in India.</p>
+
+                                <p>Our solutions are focused on precision and reliability — each product is tested for static control, durability, and long-term performance. Built with advanced materials and strict quality standards, our ESD and SMT products ensure safe and uninterrupted electronic assembly operations.</p>
+
+                                <h2>Why choose our ESD Products & SMT Consumables:-</h2>
 
 
-                                <h2>Hoodies Printing Manufacturer in India</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                                <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                    This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                    identity stand out with every wear.</p>
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
 
-                                <h2>Cap Printing Manufacturer in Pune</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position</p>
+                                <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
 
 
-                                <h2>Umbrella Printing Manufacturer in Mumbai</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                                <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                    This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                    identity stand out with every wear.</p>
+                               
+                                <h1>ESD Products – Static Protection You Can Trust</h1>
+                                <p>As a Leading <strong>ESD Products and SMT Consumables Supplier in India</strong>, we have built a strong reputation for quality, safety, and performance in the electronics manufacturing industry. Every ESD product and SMT consumable we supply is designed to protect sensitive components and maintain consistent production efficiency across industries in India.</p>
+
+                                <p>Our solutions are focused on precision and reliability — each product is tested for static control, durability, and long-term performance. Built with advanced materials and strict quality standards, our ESD and SMT products ensure safe and uninterrupted electronic assembly operations.</p>
+
+                                <h2>Why choose our ESD Products & SMT Consumables:-</h2>
+
+
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
+
+                                <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
+
+
+                              
                             </div>
+                            <div class="clearfix"></div>
                         </div>
                     </div>
                 </div>
@@ -133,7 +127,7 @@
         </section>
 
         <!-- ***************Related products section code****************** -->
-        <section class="section-14 leadsure">
+        <section class="section-14 leadsure bg-white">
 
 
 
@@ -159,7 +153,7 @@
 
                                     <div class="ultproducts-img-ratio">
 
-                                        <img src="https://html.rrdevs.net/printfix/assets/imgs/portfolio/mug-img.png"
+                                        <img src="https://media.istockphoto.com/id/1455091055/photo/golfers-junk-drawer-with-golf-objects.jpg?s=612x612&w=0&k=20&c=N4j0PF5BH-gc63rQD4a4irEYeQ8JtbiHQMTV54aSLDE="
                                             alt="cap​ Manufacturers in Delhi NCR"
                                             title="cap​ Manufacturers in Delhi NCR"
                                             class="ultproducts-img-top" loading="lazy">
@@ -173,11 +167,11 @@
                             <div class="card-body p-2 p-sm-3 p-md-4">
 
                                 <a href="#"
-                                    title="cap Manufacturers in Delhi NCR" class="ultproducts-title-link">
-                                    <div class="lead1">T-Shirt Printing​</div>
+                                    title="BGA Rework Station" class="ultproducts-title-link">
+                                    <div class="lead1">BGA Rework Station</div>
                                 </a>
 
-                                <div class="lead3">Our T-shirt printing service offers a perfect blend of quality and customization. Using advanced printing techniques such as screen printing, DTF, DTG, and heat transfer, we ensure vibrant colors, long-lasting prints</div>
+                                <div class="lead3">Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</div>
 
                                 <div class=" d-flex justify-content-start mt-2">
 
@@ -205,7 +199,7 @@
 
                                     <div class="ultproducts-img-ratio">
 
-                                        <img src="https://media.istockphoto.com/id/2238370276/photo/grey-t-shirt-in-air-on-golden-background.jpg?s=612x612&w=0&k=20&c=tXGHq9IXnd9s9P9oZK4zfvN-TKJQV3eAYcex3X7JEX4="
+                                        <img src="https://media.istockphoto.com/id/1455091055/photo/golfers-junk-drawer-with-golf-objects.jpg?s=612x612&w=0&k=20&c=N4j0PF5BH-gc63rQD4a4irEYeQ8JtbiHQMTV54aSLDE="
                                             alt="cap​ Manufacturers in Delhi NCR"
                                             title="cap​ Manufacturers in Delhi NCR"
                                             class="ultproducts-img-top" loading="lazy">
@@ -219,11 +213,11 @@
                             <div class="card-body p-2 p-sm-3 p-md-4">
 
                                 <a href="#"
-                                    title="cap Manufacturers in Delhi NCR" class="ultproducts-title-link">
-                                    <div class="lead1">Hoodies Printing​</div>
+                                    title="Fume Extractor Delhi NCR" class="ultproducts-title-link">
+                                    <div class="lead1">Fume Extractor​</div>
                                 </a>
 
-                                <div class="lead3">Our T-shirt printing service offers a perfect blend of quality and customization. Using advanced printing techniques such as screen printing, DTF, DTG, and heat transfer, we ensure vibrant colors, long-lasting prints</div>
+                                <div class="lead3">Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</div>
 
                                 <div class=" d-flex justify-content-start mt-2">
 
@@ -251,7 +245,7 @@
 
                                     <div class="ultproducts-img-ratio">
 
-                                        <img src="https://media.istockphoto.com/id/2159231565/photo/a-traditional-cultural-colorful-handmade-sindhi-cap-it-is-made-of-thread.jpg?s=612x612&w=0&k=20&c=XGc21xuttfXY5pwYm0lIVaz1_-F1Wsed8Kd6l_BQ4Ww="
+                                        <img src="https://media.istockphoto.com/id/1455091055/photo/golfers-junk-drawer-with-golf-objects.jpg?s=612x612&w=0&k=20&c=N4j0PF5BH-gc63rQD4a4irEYeQ8JtbiHQMTV54aSLDE="
                                             alt="cap​ Manufacturers in Delhi NCR"
                                             title="cap​ Manufacturers in Delhi NCR"
                                             class="ultproducts-img-top" loading="lazy">
@@ -265,11 +259,11 @@
                             <div class="card-body p-2 p-sm-3 p-md-4">
 
                                 <a href="#"
-                                    title="cap Manufacturers in Delhi NCR" class="ultproducts-title-link">
-                                    <div class="lead1">Umbrella Printing​</div>
+                                    title="ESD Tester in Delhi NCR" class="ultproducts-title-link">
+                                    <div class="lead1">ESD Tester​</div>
                                 </a>
 
-                                <div class="lead3">Our T-shirt printing service offers a perfect blend of quality and customization. Using advanced printing techniques such as screen printing, DTF, DTG, and heat transfer, we ensure vibrant colors, long-lasting prints</div>
+                                <div class="lead3">Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</div>
 
                                 <div class=" d-flex justify-content-start mt-2">
 
@@ -297,7 +291,7 @@
 
                                     <div class="ultproducts-img-ratio">
 
-                                        <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/home4-gallery-img-3.png"
+                                        <img src="https://media.istockphoto.com/id/1455091055/photo/golfers-junk-drawer-with-golf-objects.jpg?s=612x612&w=0&k=20&c=N4j0PF5BH-gc63rQD4a4irEYeQ8JtbiHQMTV54aSLDE="
                                             alt="cap​ Manufacturers in Delhi NCR"
                                             title="cap​ Manufacturers in Delhi NCR"
                                             class="ultproducts-img-top" loading="lazy">
@@ -311,11 +305,11 @@
                             <div class="card-body p-2 p-sm-3 p-md-4">
 
                                 <a href="#"
-                                    title="cap Manufacturers in Delhi NCR" class="ultproducts-title-link">
-                                    <div class="lead1">cap Printing​</div>
+                                    title="Soldering Station Bakon" class="ultproducts-title-link">
+                                    <div class="lead1">Soldering Station Bakon​</div>
                                 </a>
 
-                                <div class="lead3">Our T-shirt printing service offers a perfect blend of quality and customization. Using advanced printing techniques such as screen printing, DTF, DTG, and heat transfer, we ensure vibrant colors, long-lasting prints</div>
+                                <div class="lead3">Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</div>
 
                                 <div class=" d-flex justify-content-start mt-2">
 
@@ -349,46 +343,37 @@
                 <div class="row g-2 g-md-3 align-items-start  wow fadeInLeft animated" data-wow-delay=".1s"> <!-- Left Column (Content first now) -->
 
                     <div class="col-lg-12 col-md-7 col-12">
-                        <div class="feature-copy h-100"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle"> <!-- Content wrapper -->
+                        <div class="feature-copy h-100 p-0"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle"> <!-- Content wrapper -->
                             <div class="seo-content61 leadseo">
-                               <h2>T-Shirt Printing Manufacturer in Dubai</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                                <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                    This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                    identity stand out with every wear.</p>
+                               <h1>ESD Products – Static Protection You Can Trust</h1>
+                                <p>As a Leading <strong>ESD Products and SMT Consumables Supplier in India</strong>, we have built a strong reputation for quality, safety, and performance in the electronics manufacturing industry. Every ESD product and SMT consumable we supply is designed to protect sensitive components and maintain consistent production efficiency across industries in India.</p>
+
+                                <p>Our solutions are focused on precision and reliability — each product is tested for static control, durability, and long-term performance. Built with advanced materials and strict quality standards, our ESD and SMT products ensure safe and uninterrupted electronic assembly operations.</p>
+
+                                <h2>Why choose our ESD Products & SMT Consumables:-</h2>
 
 
-                                <h2>Hoodies Printing Manufacturer in India</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                                <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                    This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                    identity stand out with every wear.</p>
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
 
-                                <h2>Cap Printing Manufacturer in Pune</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position</p>
+                                <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
 
 
-                                <h2>Umbrella Printing Manufacturer in Mumbai</h2>
-                                <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                    creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                    our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                    T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                    color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                                <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                    This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                    identity stand out with every wear.</p>
+                               
+                                <h1>ESD Products – Static Protection You Can Trust</h1>
+                                <p>As a Leading <strong>ESD Products and SMT Consumables Supplier in India</strong>, we have built a strong reputation for quality, safety, and performance in the electronics manufacturing industry. Every ESD product and SMT consumable we supply is designed to protect sensitive components and maintain consistent production efficiency across industries in India.</p>
+
+                                <p>Our solutions are focused on precision and reliability — each product is tested for static control, durability, and long-term performance. Built with advanced materials and strict quality standards, our ESD and SMT products ensure safe and uninterrupted electronic assembly operations.</p>
+
+                                <h2>Why choose our ESD Products & SMT Consumables:-</h2>
+
+
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
+
+                                <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
+                                <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
+
+
                             </div><label for="read-more-toggle" class="read-more-btn"></label>
                         </div>
                     </div>
@@ -398,116 +383,103 @@
         </section>
 
 
-           <section class="faq-redesign-section leadsure">
-        <div class="container">
-            <div class="row">
-                    <div class="col-lg-12 text-center wow fadeInUp animated animated" data-wow-delay=".1s">
-                        <div class="eyebrow-section">Faq</div>
-                        <div class="section-title">Frequently Asked<span class="colordhead">Questions</span></div>
+           <div class="faq-container leadsure">
+
+            <div class="container">
+
+                <div class="text-center wow fadeInUp animated" data-wow-delay=".1s">
+
+                    <div class="eyebrow-section">Have Any Question</div>
+
+                    <div class="section-title">Frequently Asked <span class="colordhead">Questions</span> </div>
+
+                </div>
+
+                <div class="row justify-content-center align-items-center g-0">
+
+
+
+                    <div class="col-lg-12 col-md-12 p-0 right-section wow fadeInRight animated" data-wow-delay=".1s">
+
+                        <div class="faq-list">
+                            <div class="faq-item">
+
+                                <div class="left-border"></div>
+
+                                <button class="faq-question">
+
+                                    printing gives a professional and trendy look that lasts.
+                                </button>
+
+                                <div class="faq-answer">
+                                    We offer a complete range of premium ESD (Electrostatic Discharge) protection products designed to safeguard sensitive electronic components from static damage.
+                                </div>
+
+                            </div>
+
+
+
+                            <div class="faq-item">
+
+                                <div class="left-border"></div>
+
+                                <button class="faq-question">
+
+                                    printing gives a professional and trendy look that lasts.
+                                </button>
+
+                                <div class="faq-answer">
+                                    Our T-shirt printing service offers a perfect blend of quality and customization. Using advanced printing techniques such as screen printing, DTF, DTG, and heat transfer, we ensure vibrant colors, long-lasting prints, and a smooth
+                                </div>
+
+                            </div>
+
+
+
+                            <div class="faq-item">
+
+                                <div class="left-border"></div>
+
+                                <button class="faq-question">
+
+                                    printing gives a professional and trendy look that lasts.
+                                </button>
+
+                                <div class="faq-answer">
+                                    Power tools are designed to make tasks easier and more efficient. They provide greater speed, precision, and power compared to manual tools, allowing users to complete projects faster and with less physical effort.
+                                </div>
+
+                            </div>
+
+
+
+                            <div class="faq-item">
+
+                                <div class="left-border"></div>
+
+                                <button class="faq-question">
+
+                                    printing gives a professional and trendy look that lasts.
+                                </button>
+
+                                <div class="faq-answer">
+                                    Our T-shirt printing service offers a perfect blend of quality and customization. Using advanced printing techniques such as screen printing, DTF, DTG, and heat transfer, we ensure vibrant colors, long-lasting prints, and a smooth
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
                     </div>
-                <div class="col-lg-12">
-                    <div class="tab-content faq-tab-content" id="faqTabContent">
 
-                        <div class="tab-pane fade" id="nav-content-marketing" role="tabpanel" aria-labelledby="nav-content-marketing-tab">
-                            <div class="custom-accordion">
-                                <div class="custom-accordion-item active">
-                                    <div class="custom-accordion-question">
-                                        <span>What is your company's mission?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        This is the placeholder content for the "About Company" tab. Your JS will control this.
-                                    </div>
-                                </div>
-                                <div class="custom-accordion-item">
-                                    <div class="custom-accordion-question">
-                                        <span>Where are your offices located?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        Placeholder text for the second question.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="tab-pane fade show active" id="navfaqbody1" role="tabpanel" aria-labelledby="nav-faq1">
-                            <div class="custom-accordion">
-                                
-                                <div class="custom-accordion-item active">
-                                    <div class="custom-accordion-question">
-                                        <span>How to purchase Metro Industry theme?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        Over 20 years of experience we'll ensure you always get the best guidance. We serve a clients at every sed level of their organization we can be most useful, who has any right to find fault with a man who chooses to find fault with a man who chooses to enjoy a pleasure annoying consequences.
-                                    </div>
-                                </div>
-                                
-                                <div class="custom-accordion-item">
-                                    <div class="custom-accordion-question">
-                                        <span>What are the main features of Metro Industry?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        This is the placeholder content for this accordion item. Replace it with your actual answer.
-                                    </div>
-                                </div>
 
-                                <div class="custom-accordion-item">
-                                    <div class="custom-accordion-question">
-                                        <span>Wanna talk to our experts?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        This is the placeholder content for this accordion item. Replace it with your actual answer.
-                                    </div>
-                                </div>
 
-                                <div class="custom-accordion-item">
-                                    <div class="custom-accordion-question">
-                                        <span>What industries do you specialize in?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        This is the placeholder content for this accordion item. Replace it with your actual answer.
-                                    </div>
-                                </div>
-
-                                <div class="custom-accordion-item">
-                                    <div class="custom-accordion-question">
-                                        <span>What is your refund policy?</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        This is the placeholder content for this accordion item. Replace it with your actual answer.
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="tab-pane fade" id="navfaqbody2" role="tabpanel" aria-labelledby="nav-faq2">
-                            <div class="custom-accordion">
-                                <div class="custom-accordion-item active">
-                                    <div class="custom-accordion-question">
-                                        <span>General Question 1</span>
-                                        <div class="icon-toggle"></div>
-                                    </div>
-                                    <div class="custom-accordion-answer">
-                                        This is the placeholder content for the "General Questions" tab.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        </div>
                 </div>
 
             </div>
-        </div>
-    </section>
 
+        </div>
 
 
 

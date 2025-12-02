@@ -19,9 +19,9 @@
     <!-- ===== Breadcrumb Hero (bc01) ===== -->
     <div class="img-breadcum">
       <div class="container">
-        <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
-        <div class="sub-tt">System magic</div>
-        <div class="tt">System</div>
+        <img src="https://media.istockphoto.com/id/1006169700/photo/repairman-checking-voltage-with-digital-multimeter.jpg?s=612x612&w=0&k=20&c=XsSFNl68i6oTtSQQNo3K2Zur2TGuS5CZL233pSZa4rE=" title="About Us" alt="About Us" />
+        <div class="sub-tt">ESD Products and SMT Consumables Supplier in India</div>
+        <div class="tt">ESD Products supplier in India</div>
       </div>
     </div>
     <div class="breadcum-sec">
@@ -39,33 +39,25 @@
       <div class="container">
 
         <div class="row align-items-center g-2 g-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
+          <div class="eyebrow-section">About Us</div>
           <div class="col-lg-6">
 
-            <div class="">
+            <div class="leadseo">
 
-              <div class="eyebrow-section">About Us</div>
 
-              <h1 class="leadsureheading">Custom T-Shirt, Hoodie, and Cap Printing – Wear Your Style with Confidence</h1>
+              <h1>ESD Products – Static Protection You Can Trust</h1>
+              <p>As a Leading <strong>ESD Products and SMT Consumables Supplier in India</strong>, we have built a strong reputation for quality, safety, and performance in the electronics manufacturing industry. Every ESD product and SMT consumable we supply is designed to protect sensitive components and maintain consistent production efficiency across industries in India.</p>
 
-              <p class="leadsurepara">Express yourself with premium-quality custom printing solutions from AP Prints — your trusted partner for personalized apparel and accessories. We specialize in T-shirt printing, hoodie printing, and cap printing that combine creativity, comfort, and quality. Whether you’re promoting your brand, designing team uniforms, or creating trendy streetwear, we bring your ideas to life with precision and style.</p>
+              <p>Our solutions are focused on precision and reliability — each product is tested for static control, durability, and long-term performance. Built with advanced materials and strict quality standards, our ESD and SMT products ensure safe and uninterrupted electronic assembly operations.</p>
 
-              <div class="latest-about2__content-text">
-                <ul>
-                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
-                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
-                    </svg> Printing on paper and card stock</li>
-                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
-                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
-                    </svg> Printing on vinyl and other materials</li>
-                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
-                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
-                    </svg> Large-format printing</li>
-                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
-                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
-                    </svg> Custom design and branding services</li>
-                </ul>
+              <h2>Why choose our ESD Products & SMT Consumables:-</h2>
 
-              </div>
+
+              <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
+
+              <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
+              <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
+
 
 
             </div>
@@ -78,7 +70,7 @@
 
             <div class=" hero-about-image">
 
-              <img src="./designer/images/about2.png" loading="lazy" decoding="async" alt="Ultra Touch" title="Ultra Touch">
+              <img src="https://media.istockphoto.com/id/477473902/photo/tea-plantations.jpg?s=612x612&w=0&k=20&c=6V4oFEe4iqofERaro5Ivw4O-8tZVtxIUOOpZiIhUBlk=" alt="Ultra Touch" title="Ultra Touch">
 
             </div>
 
@@ -93,352 +85,270 @@
     </section>
 
 
+    <!-- *******************why choose us section code************* -->
 
 
-    <section class="services-section leadsure">
+
+
+
+    <div class="why-choose-us-section leadsure">
+
       <div class="container">
 
-        <!-- Header Section -->
-        <div class="text-center">
-          <div class="eyebrow-section">Our Main Services</div>
-          <div class="section-title">Professional Digital Printing</div>
+        <div class="row align-items-center">
+
+
+
+          <div class="col-lg-6">
+
+            <div class="image-wrapperA">
+
+              <img src="https://media.istockphoto.com/id/1210738055/photo/computer-education-training-class.jpg?s=612x612&w=0&k=20&c=GxtQ1NV19PMlRp3HxOInOW1SAiLSK9gt85JPFfQDqnk=" class="img-fluid" alt="Reliable Wedge Anchor Suppliers in India" title="Reliable Wedge Anchor Suppliers in India">
+
+            </div>
+
+          </div>
+
+
+
+          <div class="col-lg-6">
+
+            <div class="text-contentA">
+
+              <div class="eyebrow-section text-light">Why Choose Us </div>
+
+              <div class="faq-title text-light">ESD Products – Static Protection You Can Trust</div>
+
+
+
+              <div class="row g-2 g-md-4">
+
+                <div class="col-md-4 col-6">
+
+                  <div class="feature-boxA">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-people" viewBox="0 0 16 16">
+
+                      <path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1zm-7.978-1L7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002-.014.002zM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4m3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0M6.936 9.28a6 6 0 0 0-1.23-.247A7 7 0 0 0 5 9c-4 0-5 3-5 4q0 1 1 1h4.216A2.24 2.24 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816M4.92 10A5.5 5.5 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275ZM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0m3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4" />
+
+                    </svg>
+
+                    <p class="leadsurepara fw-semibold text-light">Renewable Energy Installations</p>
+
+                  </div>
+
+                </div>
+
+                <div class="col-md-4 col-6">
+
+                  <div class="feature-boxA">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-truck-front" viewBox="0 0 16 16">
+
+                      <path d="M5 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0m8 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0m-6-1a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2zM4 2a1 1 0 0 0-1 1v3.9c0 .625.562 1.092 1.17.994C5.075 7.747 6.792 7.5 8 7.5s2.925.247 3.83.394A1.008 1.008 0 0 0 13 6.9V3a1 1 0 0 0-1-1zm0 1h8v3.9q0 .002 0 0l-.002.004-.005.002h-.004C11.088 6.761 9.299 6.5 8 6.5s-3.088.26-3.99.406h-.003l-.005-.002L4 6.9q0 .002 0 0z" />
+
+                      <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h9A2.5 2.5 0 0 1 15 2.5v9c0 .818-.393 1.544-1 2v2a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5V14H5v1.5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-2a2.5 2.5 0 0 1-1-2zM3.5 1A1.5 1.5 0 0 0 2 2.5v9A1.5 1.5 0 0 0 3.5 13h9a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 12.5 1z" />
+
+                    </svg>
+
+                    <p class="leadsurepara fw-semibold text-light">Railways & Metro Projects</p>
+
+                  </div>
+
+                </div>
+
+                <div class="col-md-4 col-6">
+
+                  <div class="feature-boxA">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
+
+                      <path d="M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5" />
+
+                    </svg>
+
+                    <p class="leadsurepara fw-semibold text-light">Plumbing, HVAC & Fire Safety Systems</p>
+
+                  </div>
+
+                </div>
+
+                <div class="col-md-4 col-6">
+
+                  <div class="feature-boxA">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-tools" viewBox="0 0 16 16">
+
+                      <path d="M1 0 0 1l2.2 3.081a1 1 0 0 0 .815.419h.07a1 1 0 0 1 .708.293l2.675 2.675-2.617 2.654A3.003 3.003 0 0 0 0 13a3 3 0 1 0 5.878-.851l2.654-2.617.968.968-.305.914a1 1 0 0 0 .242 1.023l3.27 3.27a.997.997 0 0 0 1.414 0l1.586-1.586a.997.997 0 0 0 0-1.414l-3.27-3.27a1 1 0 0 0-1.023-.242L10.5 9.5l-.96-.96 2.68-2.643A3.005 3.005 0 0 0 16 3q0-.405-.102-.777l-2.14 2.141L12 4l-.364-1.757L13.777.102a3 3 0 0 0-3.675 3.68L7.462 6.46 4.793 3.793a1 1 0 0 1-.293-.707v-.071a1 1 0 0 0-.419-.814zm9.646 10.646a.5.5 0 0 1 .708 0l2.914 2.915a.5.5 0 0 1-.707.707l-2.915-2.914a.5.5 0 0 1 0-.708M3 11l.471.242.529.026.287.445.445.287.026.529L5 13l-.242.471-.026.529-.445.287-.287.445-.529.026L3 15l-.471-.242L2 14.732l-.287-.445L1.268 14l-.026-.529L1 13l.242-.471.026-.529.445-.287.287-.445.529-.026z" />
+
+                    </svg>
+
+                    <p class="leadsurepara fw-semibold text-light">Electrical and Mechanical Installations</p>
+
+                  </div>
+
+                </div>
+
+                <div class="col-md-4 col-6">
+
+                  <div class="feature-boxA">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-patch-plus" viewBox="0 0 16 16">
+
+                      <path fill-rule="evenodd" d="M8 5.5a.5.5 0 0 1 .5.5v1.5H10a.5.5 0 0 1 0 1H8.5V10a.5.5 0 0 1-1 0V8.5H6a.5.5 0 0 1 0-1h1.5V6a.5.5 0 0 1 .5-.5" />
+
+                      <path d="m10.273 2.513-.921-.944.715-.698.622.637.89-.011a2.89 2.89 0 0 1 2.924 2.924l-.01.89.636.622a2.89 2.89 0 0 1 0 4.134l-.637.622.011.89a2.89 2.89 0 0 1-2.924 2.924l-.89-.01-.622.636a2.89 2.89 0 0 1-4.134 0l-.622-.637-.89.011a2.89 2.89 0 0 1-2.924-2.924l.01-.89-.636-.622a2.89 2.89 0 0 1 0-4.134l.637-.622-.011-.89a2.89 2.89 0 0 1 2.924-2.924l.89.01.622-.636a2.89 2.89 0 0 1 4.134 0l-.715.698a1.89 1.89 0 0 0-2.704 0l-.92.944-1.32-.016a1.89 1.89 0 0 0-1.911 1.912l.016 1.318-.944.921a1.89 1.89 0 0 0 0 2.704l.944.92-.016 1.32a1.89 1.89 0 0 0 1.912 1.911l1.318-.016.921.944a1.89 1.89 0 0 0 2.704 0l.92-.944 1.32.016a1.89 1.89 0 0 0 1.911-1.912l-.016-1.318.944-.921a1.89 1.89 0 0 0 0-2.704l-.944-.92.016-1.32a1.89 1.89 0 0 0-1.912-1.911z" />
+
+                    </svg>
+
+                    <p class="leadsurepara fw-semibold text-light">Infrastructure Projects</p>
+
+                  </div>
+
+                </div>
+
+                <div class="col-md-4 col-6">
+
+                  <div class="feature-boxA">
+
+                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-clock-history" viewBox="0 0 16 16">
+
+                      <path d="M8.515 1.019A7 7 0 0 0 8 1V0a8 8 0 0 1 .589.022zm2.004.45a7 7 0 0 0-.985-.299l.219-.976q.576.129 1.126.342zm1.37.71a7 7 0 0 0-.439-.27l.493-.87a8 8 0 0 1 .979.654l-.615.789a7 7 0 0 0-.418-.302zm1.834 1.79a7 7 0 0 0-.653-.796l.724-.69q.406.429.747.91zm.744 1.352a7 7 0 0 0-.214-.468l.893-.45a8 8 0 0 1 .45 1.088l-.95.313a7 7 0 0 0-.179-.483m.53 2.507a7 7 0 0 0-.1-1.025l.985-.17q.1.58.116 1.17zm-.131 1.538q.05-.254.081-.51l.993.123a8 8 0 0 1-.23 1.155l-.964-.267q.069-.247.12-.501m-.952 2.379q.276-.436.486-.908l.914.405q-.24.54-.555 1.038zm-.964 1.205q.183-.183.35-.378l.758.653a8 8 0 0 1-.401.432z" />
+
+                      <path d="M8 1a7 7 0 1 0 4.95 11.95l.707.707A8.001 8.001 0 1 1 8 0z" />
+
+                      <path d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5" />
+
+                    </svg>
+
+                    <p class="leadsurepara fw-semibold text-light">Industrial Plants & Manufacturing Units</p>
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
         </div>
 
-        <!-- Grid Section -->
-        <div class="row justify-content-center">
+      </div>
 
-         
-          <div class="col-lg-3 col-md-6">
-            <div class="service-item text-center">
-              <div class="icon-boxabout">
-                <img src="./designer/images/tshirt.svg">
+    </div>
+
+
+
+
+    <!-- ****************mission vision section code**************************** -->
+    <div class="Mission-section leadsure">
+      <div class="container">
+        <div class="text-center wow fadeInUp animated" data-wow-delay=".1s">
+          <div class="eyebrow-section">Mission And vision</div>
+          <div class="section-title">Our Mission <span class="colordhead">And Vision</span> </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-12">
+            <section class="mission_vision">
+
+              <div class="mission_vision_item">
+                <div class="mission_vision_left">
+                  <div class="icon">
+                    <img src="./designer/images/mission1.svg" alt="service">
+                  </div>
+                  <div class="leadsuresubheading">Business Solution</div>
+                </div>
+                <div class="mission_vision_right">
+                  <p class="leadsurepara">
+                    comprehensive set of strategies, tools, technologies, and processes challenges,
+                    optimize operations, and drive business growth.
+                  </p>
+                  <a href="#" class="arrow">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                    </svg>
+                  </a>
+                </div>
               </div>
-              <div class="leadsuresubheading">Banner Printing</div>
-              <p class="ledsurepara">
-                There are many variations but the majority have suffered.
-              </p>
-             
-            </div>
-          </div>
 
-
-          <div class="col-lg-3 col-md-6">
-            <div class="service-item text-center">
-              <div class="icon-boxabout">
-                <img src="./designer/images/hoodie.svg">
+              <div class="mission_vision_item">
+                <div class="mission_vision_left">
+                  <div class="icon">
+                    <img src="./designer/images/mission2.svg" alt="service">
+                  </div>
+                  <div class="leadsuresubheading">Creative Ideas</div>
+                </div>
+                <div class="mission_vision_right">
+                  <p class="leadsurepara">
+                    comprehensive set of strategies, tools, technologies, and processes challenges,
+                    optimize operations, and drive business growth.
+                  </p>
+                  <a href="#" class="arrow">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                    </svg>
+                  </a>
+                </div>
               </div>
-              <div class="leadsuresubheading">hoodie Printing</div>
-              <p class="ledsurepara">
-                There are many variations but the majority have suffered.
-              </p>
-             
-            </div>
-          </div>
 
-         <div class="col-lg-3 col-md-6">
-            <div class="service-item text-center">
-              <div class="icon-boxabout">
-                <img src="./designer/images/cap.svg">
+              <div class="mission_vision_item">
+                <div class="mission_vision_left">
+                  <div class="icon">
+                    <img src="./designer/images/mission3.svg" alt="service">
+                  </div>
+                  <div class="leadsuresubheading">Market Research</div>
+                </div>
+                <div class="mission_vision_right">
+                  <p class="leadsurepara">
+                    comprehensive set of strategies, tools, technologies, and processes challenges,
+                    optimize operations, and drive business growth.
+                  </p>
+                  <a href="#" class="arrow">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                    </svg>
+                  </a>
+                </div>
               </div>
-              <div class="leadsuresubheading">cap Printing</div>
-              <p class="ledsurepara">
-                There are many variations but the majority have suffered.
-              </p>
-             
-            </div>
-          </div>
 
-          <div class="col-lg-3 col-md-6">
-            <div class="service-item text-center">
-              <div class="icon-boxabout">
-                <img src="./designer/images/umbrella.svg">
+              <div class="mission_vision_item">
+                <div class="mission_vision_left">
+                  <div class="icon">
+                    <img src="./designer/images/mission4.svg" alt="service">
+                  </div>
+                  <div class="leadsuresubheading">Technology Solution</div>
+                </div>
+                <div class="mission_vision_right">
+                  <p class="leadsurepara">
+                    comprehensive set of strategies, tools, technologies, and processes challenges,
+                    optimize operations, and drive business growth.
+                  </p>
+                  <a href="#" class="arrow">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8" />
+                    </svg>
+                  </a>
+                </div>
               </div>
-              <div class="leadsuresubheading">umbrella Printing</div>
-              <p class="ledsurepara">
-                There are many variations but the majority have suffered.
-              </p>
-             
-            </div>
-          </div>
 
+            </section>
+          </div>
         </div>
       </div>
-    </section>
-
-
-    <section class="design-gallery-section leadsure">
-
-
-            <div class="section-title text-center wow fadeInLeft animated" data-wow-delay=".1s">
-                Creative Portfolio Gallery <span class="colordhead">Showcase</span>
-            </div>
-
-            <div class="row g-2 g-md-4 justify-content-center wow fadeInUp animated" data-wow-delay=".2s" id="expanding-gallery">
-
-                <div class="col-6 col-lg-4 gallery-col " data-size-large="col-lg-4" data-size-small="col-lg-2">
-                    <div class="gallery-item">
-                        <div class="gallery-image-wrapper">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img1.jpg" alt="T-Shirt Design">
-                        </div>
-                        <div class="gallery-item-title">Custom Design</div>
-                    </div>
-                </div>
-
-                <div class="col-6 col-lg-2 gallery-col" data-size-large="col-lg-4" data-size-small="col-lg-2">
-                    <div class="gallery-item">
-                        <div class="gallery-image-wrapper">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img2.jpg" alt="Notebook Design">
-                        </div>
-                        <div class="gallery-item-title">Design</div>
-                    </div>
-                </div>
-
-                <div class="col-6 col-lg-2 gallery-col is-active" data-size-large="col-lg-4" data-size-small="col-lg-2">
-                    <div class="gallery-item">
-                        <div class="gallery-image-wrapper">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img3.jpg" alt="Bottle Design">
-                        </div>
-                        <div class="gallery-item-title">Satisfied Design</div>
-                    </div>
-                </div>
-
-                <div class="col-6 col-lg-2 gallery-col" data-size-large="col-lg-4" data-size-small="col-lg-2">
-                    <div class="gallery-item">
-                        <div class="gallery-image-wrapper">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img4.jpg" alt="Bag Design">
-                        </div>
-                        <div class="gallery-item-title">Promo Design</div>
-                    </div>
-                </div>
-
-                <div class="col-12 col-md-6 col-lg-2 gallery-col" data-size-large="col-lg-4" data-size-small="col-lg-2">
-                    <div class="gallery-item">
-                        <div class="gallery-image-wrapper">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img5.jpg" alt="Bag Design">
-                        </div>
-                        <div class="gallery-item-title">Promo Design</div>
-                    </div>
-                </div>
-
-            </div>
-
-        </section>
+    </div>
 
 
 
-    <!-- ***********************seo section code************************* -->
-      <div class="seosection">
-
-            <div class="row align-items-center">
-
-                <div class="col-lg-6 col-12 wow fadeInUp animated" data-wow-delay=".1s">
-
-                    <div class="feature-copy h-100 p-4 p-lg-5 align-content-center">
-                        <input type="checkbox" id="read-more-toggle" class="read-more-toggle">
-
-                        <div class="seo-content61 leadseo">
-
-                            <h2>T-Shirt Printing Manufacturer in India</h2>
-                            <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
-                                creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
-                                our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
-                                T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
-                                color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
-                            <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
-                                This helps businesses, schools, and fashion brands achieve professional-grade results that make their
-                                identity stand out with every wear.</p>
-                            <ul>
-                                <li><strong>Vibrant and durable prints</strong></li>
-                            </ul>
-                            <ul>
-                                <li><strong>Soft and breathable fabric quality</strong></li>
-                            </ul>
-                            <ul>
-                                <li><strong>Available in bulk or customized designs</strong></li>
-                            </ul>
-                            <ul>
-                                <li><strong>Perfect for brands, events, and promotions</strong></li>
-                            </ul>
-                            <h2>Hoodie Printing Supplier in Mumbai</h2>
-                            <p>We support fashion retailers and corporate clients as a
-                                <strong>Hoodie Printing Supplier in Mumbai</strong>, delivering customized hoodies designed for
-                                comfort and style. Using advanced screen and digital printing, we create durable designs that retain
-                                their color and texture even after multiple washes. Stylish fits and fine finishing make us a
-                                trusted <strong>Hoodie Printing Supplier in Mumbai</strong>.
-                            </p>
-                            <p>Our printed hoodies are
-                                ideal for company branding, team uniforms, college events, and personal fashion wear.
-                                Customers appreciate the soft fabric, detailed print quality, and timely delivery across
-                                Mumbai and nearby cities.</p>
 
 
 
-                        </div>
-                        <label for="read-more-toggle" class="read-more-btn"></label>
 
-                    </div>
-                </div>
+    <!--****************** insta section code****************** -->
 
-                <div class="col-lg-6 wow fadeInRight animated" data-wow-delay=".1s">
-                    <div class="hero-composition-wrapper mobile_hide">
-
-                        <div class="card product-card-hoodie border-0">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/fact-4/fact-4__02.jpg"
-                                alt="Blue Hoodie"
-                                class="product-img">
-                        </div>
-
-                        <a href="#" class="cta-btn-custom main-btn">
-                            Explore Product
-                        </a>
-
-                        <div class="card product-card-tshirt border-0">
-                            <img src="https://html.rrdevs.net/printfix/assets/imgs/fact-4/fact-4__02.jpg"
-                                alt="Colorful T-Shirt"
-                                class="product-img">
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-
-
-              <!--****************** insta section code****************** -->
-        <section class="insta-section leadsure">
-            <div class="container">
-
-                <!-- Swiper Slider Main Container -->
-                <div class="swiper instaSwiper wow fadeInUp animated" data-wow-delay=".1s">
-                    <div class="swiper-wrapper">
-
-                        <!-- Slide 1 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-4.png" alt="Fashion Item 1" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 2 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-1.png" alt="Fashion Item 2" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 3 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-2.png" alt="Fashion Item 3" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 4 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-3.png" alt="Fashion Item 4" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 5 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-4.png" alt="Fashion Item 5" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                          <!-- Slide 1 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-4.png" alt="Fashion Item 1" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 2 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-1.png" alt="Fashion Item 2" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 3 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-2.png" alt="Fashion Item 3" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 4 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-3.png" alt="Fashion Item 4" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                        <!-- Slide 5 -->
-                        <div class="swiper-slide">
-                            <a href="https://instagram.com" target="_blank" class="insta-card">
-                                <img src="https://html.rrdevs.net/printfix/assets/imgs/gallery/ins-img-4.png" alt="Fashion Item 5" class="insta-img">
-                                <div class="insta-overlay">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
-                                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
-                                    </svg>
-                                </div>
-                            </a>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-        </section> 
 
   </main>
 

@@ -317,75 +317,170 @@ document.addEventListener("DOMContentLoaded", function () {
       }
 
     });
+    
+    //******************************** */ review section code******************
 
 
-          //******************************** */ review section code******************
 
 document.addEventListener("DOMContentLoaded", function () {
+
   const stars = document.querySelectorAll(".unique-star");
+
+
 
   const hidden = document.getElementById("rating-value");
 
+
+
   let currentStarIndex = -1; // Tracks which star we're working with
+
+
 
   let clickCount = 0; // Tracks clicks on the current star
 
+
+
   function clearAllStars() {
+
     stars.forEach((star) => {
+
       star.classList.remove("half", "full");
+
     });
+
   }
+
+
 
   function fillStarsUpTo(index, state) {
+
     clearAllStars();
 
+
+
     stars.forEach((star, i) => {
+
       if (i < index) {
+
         star.classList.add("full");
+
       } else if (i === index) {
+
         star.classList.add(state);
+
       }
+
     });
+
   }
 
+
+
   stars.forEach((star, index) => {
+
     star.addEventListener("click", () => {
+
       // If clicking on a different star, reset
 
+
+
       if (currentStarIndex !== index) {
+
         currentStarIndex = index;
+
+
 
         clickCount = 1;
 
+
+
         fillStarsUpTo(index, "half");
 
+
+
         hidden.value = index + 0.5;
+
       } else {
+
         // Clicking on the same star
+
+
 
         clickCount++;
 
+
+
         if (clickCount === 2) {
+
           // Second click - fill completely
+
+
 
           fillStarsUpTo(index, "full");
 
+
+
           hidden.value = index + 1;
+
         } else if (clickCount >= 3) {
+
           // Third click - reset to half
+
+
 
           clickCount = 1;
 
+
+
           fillStarsUpTo(index, "half");
 
+
+
           hidden.value = index + 0.5;
+
         }
+
       }
+
     });
+
   });
+
 });
 
 
+
+
+
+
+// read morw toggle button section code************************************************************
+
+        document.addEventListener("DOMContentLoaded", function () {
+  const content = document.querySelector(".aboutind");
+
+  // Create toggle button
+  const toggle = document.createElement("span");
+  toggle.className = "read-toggle";
+  toggle.textContent = "Read More...";
+
+  // Insert toggle after content
+  content.after(toggle);
+
+  // Check if content needs toggle (if overflowing)
+  const collapsedHeight = 530; // same as CSS max-height
+  if (content.scrollHeight <= collapsedHeight + 10) {
+    toggle.style.display = "none"; // hide toggle if not overflowing
+    content.classList.add("expanded"); // remove fade effect
+  }
+
+  // Toggle expand/collapse
+  toggle.addEventListener("click", () => {
+    content.classList.toggle("expanded");
+    toggle.textContent = content.classList.contains("expanded")
+      ? "Read Less"
+      : "Read More...";
+  });
+});
     
 
 
@@ -421,8 +516,16 @@ const citiesToHighlight = [
 
 ];
 
-// INIT MAP
-var map = L.map('map').setView([22.9734, 78.6569], 5);
+// MAP INIT WITH ALL ZOOM DISABLED
+var map = L.map('map', {
+  zoomControl: false,       // hides + âˆ’ buttons
+  scrollWheelZoom: false,  // disables mouse wheel zoom
+  doubleClickZoom: false,  // disables double click zoom
+  touchZoom: false,        // disables pinch zoom on mobile
+  boxZoom: false,          // disables shift+drag zoom
+  keyboard: false,         // disables keyboard zoom
+  dragging: true           // âœ… keep dragging enabled
+}).setView([22.9734, 78.6569], 5);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19
@@ -431,35 +534,44 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let markers = [];
 let bounds = [];
 
+
+
+// AUTO HIGHLIGHT FUNCTION
 function autoHighlightCities() {
-    citiesToHighlight.forEach(city => {
+  citiesToHighlight.forEach(city => {
 
-        // Create blinking marker
-        let marker = L.marker([city.lat, city.lng], {
-            icon: L.divIcon({
-                className: "",
-                html: '<div class="blinking-marker"></div>',
-                iconSize: [20, 20]
-            })
-        }).addTo(map);
+    // Blinking Marker
+    let marker = L.marker([city.lat, city.lng], {
+      icon: L.divIcon({
+        className: "",
+        html: '<div class="blinking-marker"></div>',
+        iconSize: [20, 20]
+      })
+    }).addTo(map);
 
-        // CLICK → SHOW LABEL
-        marker.on("click", () => {
-            L.popup({ offset: [0, -10] })
-                .setLatLng([city.lat, city.lng])
-                .setContent(`<b>${city.name}</b>`)
-                .openOn(map);
-        });
+    //Hover Popup
+    let hoverPopup;
 
-        markers.push(marker);
-        bounds.push([city.lat, city.lng]);
+    marker.on("mouseover", () => {
+      hoverPopup = setTimeout(() => {
+        L.popup({ offset: [0, -10], closeButton: false })
+          .setLatLng([city.lat, city.lng])
+          .setContent(`<b>${city.name}</b>`)
+          .openOn(map);
+      }, 150);
     });
 
-    map.fitBounds(bounds, { padding: [20, 20] });
+    marker.on("mouseout", () => {
+      clearTimeout(hoverPopup);
+      map.closePopup();
+    });
+
+    markers.push(marker);
+    bounds.push([city.lat, city.lng]);
+  });
+
+  // Auto fit but still NO ZOOM interaction allowed
+  map.fitBounds(bounds, { padding: [20, 20] });
 }
+
 window.onload = autoHighlightCities;
-
-        
-        
-
- 

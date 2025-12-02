@@ -20,9 +20,9 @@
     <!-- ===== Breadcrumb Hero (bc01) ===== -->
     <div class="img-breadcum">
       <div class="container">
-        <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
-        <div class="sub-tt">System magic</div>
-        <div class="tt">System</div>
+        <img src="https://media.istockphoto.com/id/1006169700/photo/repairman-checking-voltage-with-digital-multimeter.jpg?s=612x612&w=0&k=20&c=XsSFNl68i6oTtSQQNo3K2Zur2TGuS5CZL233pSZa4rE=" title="About Us" alt="About Us" />
+        <div class="sub-tt">ESD Products and SMT Consumables Supplier in India</div>
+        <div class="tt">ESD Products supplier in India</div>
       </div>
     </div>
     <div class="breadcum-sec">
@@ -61,7 +61,7 @@
                 <a href="blog_detail.php"
                   title="Top Hospital Equipment Every Modern Healthcare Facility Needs">
 
-                  <img src="https://html.rrdevs.net/printfix/assets/imgs/blog/letest-blog/blog-card1.jpg" alt="Top Hospital Equipment Every Modern Healthcare Facility Needs"
+                  <img src="https://media.istockphoto.com/id/540221478/photo/laptop-and-work-tools-over-architectural-blueprints-on-wooden-table.jpg?s=612x612&w=0&k=20&c=rstHDnswKSvYMXyn2vrwMhktP-fDMOJUabmZauXC4_k=" alt="Top Hospital Equipment Every Modern Healthcare Facility Needs"
                     title="Top Hospital Equipment Every Modern Healthcare Facility Needs"
 
                     class="card-img-top">
@@ -81,7 +81,7 @@
                   <a href="#"
                     title="Top Hospital Equipment Every Modern Healthcare Facility Needs" class="card-title">
 
-                    Stand out with custom-designed hoodies that reflect
+                    electronics manufacturing units and R&D labs to service centers and production
                   </a>
 
                 </div>
@@ -111,7 +111,7 @@
                 <a href="#"
                   title="How Medicaid is Revolutionizing Neonatal Care Equipment">
 
-                  <img src="https://html.rrdevs.net/printfix/assets/imgs/blog/letest-blog/blog-card1.jpg" alt="How Medicaid is Revolutionizing Neonatal Care Equipment"
+                  <img src="https://media.istockphoto.com/id/540221478/photo/laptop-and-work-tools-over-architectural-blueprints-on-wooden-table.jpg?s=612x612&w=0&k=20&c=rstHDnswKSvYMXyn2vrwMhktP-fDMOJUabmZauXC4_k=" alt="How Medicaid is Revolutionizing Neonatal Care Equipment"
                     title="How Medicaid is Revolutionizing Neonatal Care Equipment"
 
                     class="card-img-top">
@@ -131,7 +131,7 @@
                   <a href="#"
                     title="How Medicaid is Revolutionizing Neonatal Care Equipment" class="card-title">
 
-                    Stand out with custom-designed hoodies that reflect
+                    electronics manufacturing units and R&D labs to service centers and production
                   </a>
 
                 </div>
@@ -162,7 +162,7 @@
                 <a href="#"
                   title="Choosing the Right Medical Equipment Manufacturer">
 
-                  <img src="https://html.rrdevs.net/printfix/assets/imgs/blog/letest-blog/blog-card1.jpg" alt="Choosing the Right Medical Equipment Manufacturer"
+                  <img src="https://media.istockphoto.com/id/540221478/photo/laptop-and-work-tools-over-architectural-blueprints-on-wooden-table.jpg?s=612x612&w=0&k=20&c=rstHDnswKSvYMXyn2vrwMhktP-fDMOJUabmZauXC4_k=" alt="Choosing the Right Medical Equipment Manufacturer"
                     title="Choosing the Right Medical Equipment Manufacturer"
 
                     class="card-img-top">
@@ -182,7 +182,7 @@
                   <a href="#"
                     title="Choosing the Right Medical Equipment Manufacturer" class="card-title">
 
-                    Stand out with custom-designed hoodies that reflect
+                    electronics manufacturing units and R&D labs to service centers and production
                   </a>
 
                 </div>

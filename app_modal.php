@@ -128,7 +128,7 @@
           <!-- Product Image & Name -->
           <div class="text-center mb-3">
             <div class=" popupheading" id="productName">Product Name Here</div>
-            <img src="https://html.rrdevs.net/printfix/assets/imgs/shop-details/shop-details-img.png" alt="Product Image" class="img-fluid rounded product-img mb-2">
+            <img src="https://media.istockphoto.com/id/514264952/photo/sensor-scanning.jpg?s=612x612&w=0&k=20&c=0Mao-hqpdQG1HT2pyX4_cutWMLbYOaWH2fMJC-r4J2o=" alt="Product Image" class="img-fluid rounded product-img mb-2">
 
           </div>
 
@@ -177,11 +177,12 @@
           <div class="col-lg-7">
             
             <div class="product-display-areamodal">
+              <div class="leadsuresubheading colordhead mb-2">ESD Products</div>
+
               <div class="product-image-containermodal">
                 <!-- Placeholder for Pump Image -->
-                <img src="https://html.rrdevs.net/printfix/assets/imgs/shop-details/shop-details-img.png" alt="Rotary Barrel Pump" class="product-imgmodal">
+                <img src="https://media.istockphoto.com/id/514264952/photo/sensor-scanning.jpg?s=612x612&w=0&k=20&c=0Mao-hqpdQG1HT2pyX4_cutWMLbYOaWH2fMJC-r4J2o=" alt="Rotary Barrel Pump" class="product-imgmodal">
               </div>
-              <div class="leadsuresubheading colordhead mb-2">Rotary Barrel Pump</div>
 
             </div>
             <!-- Product Name Outside Box -->

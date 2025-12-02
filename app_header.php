@@ -78,9 +78,9 @@
                     <div class="menu main_header" bis_skin_checked="1">
                         <ul class="nav">
                             <li class="active"><a href="./index.php" title="Home">Home</a></li>
-                            <li><a href="" title="About Us">About</a></li>
+                            <li><a href="about.php" title="About Us">About</a></li>
                             <li class="ls-submenu ">
-                                <a href="#" title="Our Products">Products</a>
+                                <a href="category.php" title="Our Products">Products</a>
                                 <ul class="ls-dropdown">
 
                                     <li class="ls-submenu">
@@ -241,13 +241,13 @@
                             </li>
                             <!-- <li><a href="#" title="Faq">Products</a></li> -->
 
-                            <li><a href="#" title="Blog">Blog</a></li>
-                            <li><a href="#" title="Faq">Faq</a></li>
+                            <li><a href="blog.php" title="Blog">Blog</a></li>
+                            <li><a href="faq.php" title="Faq">Faq</a></li>
 
 
-                            <li><a href="#" title="Contact">Gallery</a></li>
+                            <li><a href="project.php" title="Contact">Gallery</a></li>
 
-                            <li><a href="#" title="Contact">Contact</a></li>
+                            <li><a href="contact.php" title="Contact">Contact</a></li>
 
 
 

@@ -553,7 +553,7 @@
                                         </div>
                                         <div class="info-content">
                                             <div class="leadsuresubheading text-light">Call Us 24/7</div>
-                                            <p class="leadsurepara">(+256) 2145.2156</p>
+                                            <p class="leadsurepara text-light">+91 8048953634</p>
                                         </div>
                                     </div>
 
@@ -566,7 +566,7 @@
                                         </div>
                                         <div class="info-content">
                                             <div class="leadsuresubheading text-light">Work with us</div>
-                                            <p class="leadsurepara">info@invena.com</p>
+                                            <p class="leadsurepara text-light">info@reliable.com</p>
                                         </div>
                                     </div>
 
@@ -580,7 +580,8 @@
                                         </div>
                                         <div class="info-content">
                                             <div class="leadsuresubheading text-light">Our Location</div>
-                                            <p class="leadsurepara">XYZ Hilton Street, 125 Town<br>United State</p>
+                                            <p class="leadsurepara text-light">Khasra No.414, Laxman Vihar Phase-Ii Post Office Wali Gali
+                                                Gurugram - 122001, Haryana, India</p>
                                         </div>
                                     </div>
                                 </div>
@@ -808,7 +809,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
                                     <div class="leadsuresubheading">Logan James</div>
-                                    <span class="leadsurepara">Manager at <strong>Catalyst Agency</strong></span>
+                                    <span class="leadsurepara">Manager at <strong>Agency</strong></span>
                                 </div>
                                 <div class="unique-star-rating" data-rating="4">
 
@@ -834,7 +835,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
                                     <div class="leadsuresubheading">Logan James</div>
-                                    <span class="leadsurepara">Manager at <strong>Catalyst Agency</strong></span>
+                                    <span class="leadsurepara">Manager at <strong>Agency</strong></span>
                                 </div>
                                 <div class="unique-star-rating" data-rating="4">
 
@@ -859,7 +860,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div>
                                     <div class="leadsuresubheading">Logan James</div>
-                                    <span class="leadsurepara">Manager at <strong>Catalyst Agency</strong></span>
+                                    <span class="leadsurepara">Manager at <strong> Agency</strong></span>
                                 </div>
                                 <div class="unique-star-rating" data-rating="4">
 
@@ -874,31 +875,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="review-cardB">
-                            <div class="leadsuresubheading">Great Business Solution</div>
-                            <p class="leadsurepara">
-                                "Dictum egravida praimis rhoncus maecenas qismart curae mauris turpis quisque ad dictumst semper tempor aliquam senectus commodo"
-                            </p>
-                            <div class="d-flex justify-content-between align-items-center">
-                                <div>
-                                    <div class="leadsuresubheading">Logan James</div>
-                                    <span class="leadsurepara">Manager at <strong>Catalyst Agency</strong></span>
-                                </div>
-                                <div class="unique-star-rating" data-rating="4">
-
-                                    <div class="unique-star-rating" data-rating="4.5">
-                                        <div class="unique-starM" data-star="1"></div>
-                                        <div class="unique-starM" data-star="2"></div>
-                                        <div class="unique-starM" data-star="3"></div>
-                                        <div class="unique-starM" data-star="4"></div>
-                                        <div class="unique-starM" data-star="5"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="swiper-slide">
                         <div class="review-cardB">
                             <div class="leadsuresubheading">Great Business Solution</div>
@@ -935,8 +911,7 @@
                                     <div class="leadsuresubheading">Logan James</div>
                                     <span class="leadsurepara">Manager at <strong>Catalyst Agency</strong></span>
                                 </div>
-
-                              
+                                <div class="unique-star-rating" data-rating="4">
 
                                     <div class="unique-star-rating" data-rating="4.5">
                                         <div class="unique-starM" data-star="1"></div>
@@ -945,7 +920,33 @@
                                         <div class="unique-starM" data-star="4"></div>
                                         <div class="unique-starM" data-star="5"></div>
                                     </div>
-                            
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="review-cardB">
+                            <div class="leadsuresubheading">Great Business Solution</div>
+                            <p class="leadsurepara">
+                                "Dictum egravida praimis rhoncus maecenas qismart curae mauris turpis quisque ad dictumst semper tempor aliquam senectus commodo"
+                            </p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div>
+                                    <div class="leadsuresubheading">Logan James</div>
+                                    <span class="leadsurepara">Manager at <strong>Catalyst Agency</strong></span>
+                                </div>
+
+
+
+                                <div class="unique-star-rating" data-rating="4.5">
+                                    <div class="unique-starM" data-star="1"></div>
+                                    <div class="unique-starM" data-star="2"></div>
+                                    <div class="unique-starM" data-star="3"></div>
+                                    <div class="unique-starM" data-star="4"></div>
+                                    <div class="unique-starM" data-star="5"></div>
+                                </div>
+
 
                             </div>
                         </div>
