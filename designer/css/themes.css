@@ -393,14 +393,14 @@ header {
     font-size: var(--topbar-size);
     font-family: var(--font2);
     background: transparent;
-    font-weight: 600;
+    font-weight: 700;
     text-transform: capitalize;
     text-decoration: none;
 }
 
 .navigation .menu ul li.active a,
 .navigation .menu ul li:hover a {
-    color: var(--hover-color2);
+    color: var(--hover-color1);
     background: transparent;
     text-decoration: none;
 }
