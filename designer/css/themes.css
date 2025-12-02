@@ -927,8 +927,7 @@ header {
 
 .leadseo p,
 .leadseo ul,
-.leadseo li,
-.leadseo a {
+.leadseo li{
     font-size: var(--para-size);
     color: var(--para-color);
     line-height: 1.6;
