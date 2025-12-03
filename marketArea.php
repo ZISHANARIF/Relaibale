@@ -118,18 +118,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+                   
                 </div>
                 <h2>Cities of Loream</h2>
                 <div class="row g-2 row-cols-2 row-cols-md-4 row-cols-lg-5">
@@ -137,18 +126,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+                  
                     <div class="col">
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
@@ -164,18 +142,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+                  
                     <div class="col">
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
@@ -199,18 +166,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+                 
                     <div class="col">
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
@@ -234,18 +190,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+            
                 </div>
                 <h2>Cities of Loream Loream</h2>
                 <div class="row g-2 row-cols-2 row-cols-md-4 row-cols-lg-5">
@@ -261,14 +206,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+               
                     <div class="col">
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
@@ -284,18 +222,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+                
                     <div class="col">
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
@@ -315,18 +242,7 @@
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
                     </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
-                    <div class="col">
-                        <a href="#Loream/" title="Loream" class="marketcard">
-                            Loream </a>
-                    </div>
+                   
                     <div class="col">
                         <a href="#Loream/" title="Loream" class="marketcard">
                             Loream </a>
