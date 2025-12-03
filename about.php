@@ -39,9 +39,9 @@
       <div class="container">
 
         <div class="row align-items-center g-2 g-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
-          <div class="eyebrow-section">About Us</div>
+         
           <div class="col-lg-6">
-
+             <div class="eyebrow-section">About Us</div>
             <div class="leadseo">
 
 

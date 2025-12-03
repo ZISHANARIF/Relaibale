@@ -1285,25 +1285,6 @@
   padding: 30px 30px;
 }
 
-/* ****************error page section code************ */
-.errorsection {
-    background-color: var(--bg1-color);
-}
-
-
-
-.error-image {
-    aspect-ratio: 2/1;
-    width: 100%;
-    overflow: hidden;
-}
-
-.error-image img {
-    aspect-ratio: 2/1;
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-}
 
 .faq-section62{
             background-color: var(--bg1-color);

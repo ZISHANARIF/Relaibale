@@ -32,7 +32,7 @@
 
                     <picture>
                         <source media="(max-width: 786px)" srcset="./designer/images/banner2.png">
-                        <img src="./designer/images/banner2.png" alt="" class="d-block w-100"
+                        <img src="./designer/images/banner2.jpeg" alt="" class="d-block w-100"
                             loading="lazy"
                             decoding="async">
                     </picture>
@@ -51,7 +51,7 @@
                 <div class="carousel-item">
                     <picture>
                         <source media="(max-width: 786px)" srcset="./designer/images/banner4.png">
-                        <img src="./designer/images/banner4.png" alt="" class="d-block w-100"
+                        <img src="./designer/images/banner4.jpeg" alt="" class="d-block w-100"
                             loading="lazy"
                             decoding="async">
                     </picture>
@@ -82,7 +82,7 @@
 
 
                     <div class="col-lg-6 wow fadeInLeft animated" data-wow-delay=".1s">
-
+                         <div class="eyebrow-section">About Us</div>
                         <div class="leadseo">
 
                             <!-- <div class="eyebrow-section">OUR STORY</div> -->
@@ -95,12 +95,11 @@
 
 
                             <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
-
-                            <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
                             <p>As Trusted <strong>Soldering Equipment and Measuring Equipment Suppliers in India</strong>, we ensure consistent quality, accurate performance, and nationwide availability. Our soldering systems and measuring instruments are built for precision, stability, and continuous industrial and laboratory use.</p>
 
+                            <p>Our range is suitable for all environments — from electronics manufacturing units and R&D labs to service centers and production floors — delivering dependable performance and accurate results every day.</p>
 
-                            <a href="#" class="main-btn" role="button" title="Learn More About - Ultra Touch">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
+                            <a href="about.php" class="main-btn" role="button" title="Learn More About - Ultra Touch">Read More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-right" viewBox="0 0 16 16">
 
                                     <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8">
                                     </path>
@@ -611,7 +610,7 @@
 
 
 
-                                            <div class="phone-wrapper mb-3">
+                                            <div class="phone-wrapper">
 
                                                 <input type="hidden" name="countryCode" value="">
 

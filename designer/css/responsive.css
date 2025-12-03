@@ -747,6 +747,9 @@
     .iti {
         width: 100%;
     }
+     .left-content-wrapper {
+        float: none;
+    }
 
     .eyebrow-section {
         margin-bottom: 10px;
@@ -763,7 +766,8 @@
         font-weight: 400;
     }
 
-    .section-title {
+    .section-title,
+    .info-item {
         margin-bottom: 15px;
     }
 
@@ -774,7 +778,9 @@
     .heading-text,
     .Marektheading,
     .stats-counter .counter-number,
-    .metric-item .metric-number,.colordhead {
+    .metric-item .metric-number,
+    .colordhead,
+    .stat-number {
         font-size: 24px;
     }
 
@@ -790,7 +796,7 @@
         margin: 0.3rem;
     }
 
-    .contact-details-wrapper {
+    .contact-details-wrappe {
         padding: 20px;
     }
 
@@ -830,6 +836,7 @@
         background: transparent;
     }
 
+
     .read-more-btnX {}
 
 
@@ -837,11 +844,14 @@
     .leadsureheading,
     .faq-title,
     .market-area h2,
-    .metric-item .metric-label {
+    .metric-item .metric-label,
+    .about-content .about-mt,
+    .img-breadcum .tt {
         font-size: 18px;
     }
 
-    .project-tabs .nav-link {
+    .project-tabs .nav-link,
+    .img-breadcum .sub-tt {
         font-size: 13px;
     }
 
@@ -859,7 +869,11 @@
     .custom-accordion-question,
     .faq-nav-vertical .nav-link,
     .card-hover-title .galleryhead,
-    .card-title-wrapper .card-title,.gallery-item-title {
+    .card-title-wrapper .card-title,
+    .gallery-item-title,
+    .footer-bottom,
+    .widget-title105,
+    .category-item-link {
         font-size: 15px;
     }
 
@@ -870,13 +884,14 @@
     .working-process-section .section-description,
     .blog-card .card-meta,
     .leadsurepara,
+    .blog-cate5 li,
     .faq-item.active .faq-answer,
     .lead2,
     .widget-links .link-item a,
     .faq-nav-tabs .nav-link.active,
     .faq-nav-tabs .nav-link,
     .custom-accordion-item.active .custom-accordion-answer,
-    
+
     .marketcard,
     .read-more-btnX,
     .latest-about2__content-text ul li,
@@ -886,10 +901,12 @@
     .ft-link,
     .news-title,
 
-    .faq-question,.foot08-popular-list {
+    .faq-question,
+    .foot08-popular-list {
 
         font-size: 12px;
     }
+
 
     .contact-item {
         flex-direction: row !important;
@@ -908,75 +925,115 @@
         padding: 0.5rem 1rem;
     }
 
-    /* new *********** */
-    .features-bar {
-        padding-top: 15px;
+    .map-container-51 {
+        padding-top: 70%;
     }
 
-    .feature-item {
-        justify-content: flex-start;
-        padding-left: 1px;
-    }
 
-    .feature-item svg {
-        margin-right: 0.5rem;
-    }
-
-    .features-bar .feature-item,
-    .mySwiper {
-        padding: 0;
-    }
-
-    .latest-about2__content-text ul li {
-        line-height: 25px;
-    }
-
-    .project-tabs,
-    .info-detail {
-        margin-bottom: 10px;
-    }
-      .product-imgmodal {
-             
-    margin-bottom: 20px;
-        }
-
-    .project-tabs {
-        justify-content: space-evenly;
-    }
-
-    .contact-info {
-        padding: 2rem 1rem;
-    }
-
-    .date-badge ,.gallery-item-title{
-        padding: 5px;
-    }
-
-    .card-title-wrapper {
-        margin-bottom: 5px;
-    }
 
     ul {
         padding-left: 1rem;
     }
-    .news-item{
-        gap: 5px;
-    }
+
     .ft-bottom {
-    padding: 1rem 0.2rem 3rem 0.2rem;
-}
-.mid-bar{
-    padding: 0;
-}
-.ft-list li {
-    margin: 5px 0;
-}
-.faq-item.active .faq-question::after
-{
-    padding: 6px;
-}
+        padding: 1rem 0.2rem 3rem 0.2rem;
+    }
 
+    .mid-bar {
+        padding: 0;
+    }
 
+    .ft-list li {
+        margin: 5px 0;
+    }
+
+    .faq-item.active .faq-question::after {
+        padding: 6px;
+    }
+
+    /* new  */
+
+    .about-img-small {
+        width: 120px;
+        height: 120px;
+    }
+
+    .contact-info-panel {
+        padding: 25px 20px;
+    }
+
+    /* .g-recaptcha {
+    transform: scale(1.15);
+    transform-origin: 0;
+} */
+    .stat-col {
+        margin-bottom: 20px;
+    }
+
+    .testimonial-hero {
+        padding: 26px 0 126px 0;
+    }
+
+    .review-cardB {
+        padding: 20px;
+    }
+
+    .swiper {
+        padding-bottom: 26px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0.7rem;
+    }
+    .top-bar{
+            background: linear-gradient(90deg, #1c252b 0%, #1c252b 51%, #ffffff 35%, #ffffff 100%);
+    }
+
+    .feature-boxA {
+        padding: 1rem 0.5rem;
+    }
+
+    .contact-form-panel {
+        padding: 20px 0;
+    }
+
+    .cta-main-area-wrapper-one {
+        padding: 26px;
+    }
+
+    .footer-logo,
+    .contact-itemf {
+
+        margin-bottom: 10px;
+    }
+
+    .footer-links li {
+        margin-bottom: 8px;
+        font-size: 12px;
+    }
+
+    section.mission_vision .mission_vision_item {
+        margin-bottom: 20px;
+    }
+
+    section.mission_vision .mission_vision_item {
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+
+        padding: 10px;
+    }
+        section.mission_vision .mission_vision_left {
+        
+        justify-content: center;
+    }
+
+   
+    .product .g-recaptcha {
+    transform: scale(1);
+    transform-origin: 0 0;
+}
 }
 
 

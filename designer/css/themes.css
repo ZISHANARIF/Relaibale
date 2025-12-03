@@ -757,7 +757,7 @@ header {
 /* --- Copyright Bar --- */
 .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, 0.08);
-    padding: 25px 0;
+    padding: 30px 0 10px 0;
 
 }
 
@@ -825,7 +825,7 @@ header {
 }
 
 .foot08-popular-list a:hover {
-    color: var(--hover-color2);
+    color: var(--border-light);
 }
 
 .foot08-muted {
@@ -1032,7 +1032,7 @@ main img {
 }
 
 #carouselExampleAutoplaying img {
-    aspect-ratio: 1920 / 700;
+    aspect-ratio: 1920 / 710;
 
 }
 
@@ -1247,7 +1247,7 @@ main {
 .about-img-small {
     position: absolute;
 
-    bottom: -50px;
+    bottom: 1px;
 
     left: 50px;
 
@@ -2451,7 +2451,7 @@ section.mission_vision .mission_vision_right .arrow svg {
 
 /* *******************************blog section code***************************** */
 .blog-section {
-    background-color: var(--bg1-color)
+    background-color: var(--bg2-color)
 }
 
 .blog-card {
@@ -2996,6 +2996,188 @@ section.mission_vision .mission_vision_right .arrow svg {
     align-self: flex-start;
 }
 
+            /*************************** privacy policy content********************** */
+
+.privacy-container {
+    background-color: var(--bg2-color);
+}
+
+
+.privacy-container a {
+    font-size: var(--para-size);
+    color: var(--primary-color);
+}
+
+.privacy-box{
+    padding: 20px;
+    background: var(--bg1-color);
+}
+
+   /* *****************************siteMap Section code**************************** */
+.sitemap-section {
+    
+    background: var(--bg2-color);
+
+}
+.sitemapbox{
+    padding: 20px;
+    background: var(--bg1-color);
+}
+.sitemap-section .sitempheading {
+    font-size: var(--heading2-size);
+    font-weight: 600;
+    margin-bottom: 20px;
+    border-bottom: 3px solid var(--secondary-color);
+    display: inline-block;
+    padding-bottom: 5px;
+    color: var(--header-color);
+}
+
+.sitemapcon {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    font-size: var(--para-size);
+}
+
+.sitemapcon>li {
+    position: relative;
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.sitemapcon>li::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 8px;
+    bottom: 0;
+    border-left: 2px solid var(--primary-color);
+}
+
+.sitemapcon>li::after {
+    content: "";
+    position: absolute;
+    top: 12px;
+    left: 8px;
+    width: 10px;
+    border-top: 2px solid var(--primary-color);
+}
+
+.sitemapcon a {
+    text-decoration: none;
+    color: var(--para-color);
+    font-size: var(--para-size);
+    transition: color 0.2s;
+}
+
+.sitemapcon a:hover {
+    color: var(--hover-color1);
+    font-weight: 600;
+}
+
+.sitemapsubcat {
+    list-style: none;
+    margin: 5px 0 5px 20px;
+    padding-left: 15px;
+    border-left: 2px solid var(--secondary-color);
+}
+
+.sitemapsubcat li {
+    position: relative;
+    margin: 10px 0;
+    padding-left: 15px;
+}
+
+.sitemapsubcat li::before {
+    content: "";
+    position: absolute;
+    top: 12px;
+    left: -15px;
+    width: 15px;
+    border-top: 2px solid var(--secondary-color);
+}
+
+@media (max-width: 767px) {
+    .sitemap-section {
+        padding: 20px 10px;
+    }
+    .sitemap-section .you_may {
+        font-size: 16px;
+    }
+    .sitemapcon {
+        font-size: 13px;
+    }
+}
+
+
+/* ****************market area section code ************** */
+
+.market-area {
+    background: var(--bg2-color)
+}
+
+.Marektheading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.Marektheading {
+    font-size: var(--title-size);
+    font-weight: 600;
+    color: var(--heading-color);
+}
+
+.market-area h2 {
+    font-size: var(--heading2-size);
+    font-weight: 600;
+    margin: 30px 0 15px;
+    color: var(--heading-color);
+    border-left: 5px solid var(--primary-color);
+    padding-left: 10px;
+}
+
+.marketcard {
+    display: block;
+    text-align: center;
+    padding: 12px 10px;
+    border-radius: var(--radius);
+    background: var(--bg1-color);
+    box-shadow: 0 4px 10px rgba(59, 59, 59, 0.1);
+    font-size: 16px;
+    color: var(--heading-color);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.marketcard:hover {
+    color: var(--white);
+    transform: translateY(-3px);
+    background-color: var(--primary-color);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* ****************error page section code************ */
+.errorsection {
+    background-color: var(--bg1-color);
+}
+
+
+
+.error-image {
+    aspect-ratio: 2/1;
+    width: 100%;
+    overflow: hidden;
+}
+
+.error-image img {
+    aspect-ratio: 2/1;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
 
 
 /* **************breadcome section code********************* */
@@ -3224,6 +3406,26 @@ textarea.enquiry-input {
     box-shadow: 0 8px 24px rgba(0, 0, 0, .18);
     transition: transform .15s ease, box-shadow .15s ease, opacity .15s ease;
     outline: none;
+    animation: email-an linear 1s infinite;
+}
+
+
+
+@keyframes email-an {
+    0% {
+        box-shadow: 0 8px 10px rgba(0, 171, 86, 0.2),
+            0 0 0 0 rgba(0, 171, 86, 0.2), 0 0 0 0 rgba(0, 171, 86, 0.2);
+    }
+
+    50% {
+        box-shadow: 0 8px 10px rgba(0, 171, 86, 0.2),
+            0 0 0 15px rgba(0, 171, 86, 0), 0 0 0 16px rgba(0, 171, 86, 0.067);
+    }
+
+    100% {
+        box-shadow: 0 8px 10px rgba(0, 171, 86, 0.2),
+            0 0 0 18px rgba(0, 171, 86, 0), 0 0 0 20px rgba(0, 171, 86, 0);
+    }
 }
 
 .business-enq {
@@ -3288,7 +3490,7 @@ textarea.enquiry-input {
 @media (min-width: 992px) {
     .fab-stack {
         right: calc(24px + env(safe-area-inset-right, 0));
-        bottom: calc(84px + env(safe-area-inset-bottom, 0));
+        bottom: calc(100px + env(safe-area-inset-bottom, 0));
         --fab-size: 56px;
     }
 }

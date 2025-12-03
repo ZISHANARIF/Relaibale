@@ -11,7 +11,7 @@
          </div>
      </div>
 
-     <footer class="footer-area leadsure">
+     <footer class="footer-area leadsure pb-2">
          <div class="container">
              <div class="row">
 
@@ -50,7 +50,7 @@
                  </div>
 
                  <!-- Col 2: Quick Links 1 -->
-                 <div class="col-lg-2 col-md-6">
+                 <div class="col-lg-2 col-6">
                      <div class="fw-bold text-light fs-4 fs-md-6">
                          Quick Links
                          <br><span class="title-divider"></span>
@@ -58,9 +58,10 @@
                      <ul class="footer-links">
                          <li><a href="#"> Home</a></li>
                          <li><a href="#"> About</a></li>
-                         <li><a href="#"> Blog</a></li>
                          <li><a href="#"> Faq</a></li>
                          <li><a href="#"> Contact</a></li>
+                         <li><a href="error.php"> error</a></li>
+
                          <li><a href="review.php"> Write A Review</a></li>
 
                      </ul>
@@ -68,7 +69,7 @@
 
                  <!-- Col 3: Quick Links 2 (No Title) -->
                  <!-- Aligned with the list above, appearing as a second column of links -->
-                 <div class="col-lg-3 col-md-6">
+                 <div class="col-lg-3 col-6 p-0 p-md-1">
                      <div class="fw-bold text-light fs-4 fs-md-6">
                          Quick Links
                          <br><span class="title-divider"></span>
@@ -84,65 +85,119 @@
                      </ul>
                  </div>
 
-                 <div class="col-lg-3 col-md-6 mb-4">
+                 <div class="col-lg-3 col-12 mb-0 mb-md-4">
                      <div class="fw-bold text-light fs-4 fs-md-6">
                          Contact Us
                          <br><span class="title-divider"></span>
                      </div>
                      <ul class="footer-links">
                          <div class="contact-itemf">
-                         <div class="contact-icon">
-                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-telephone-outbound" viewBox="0 0 16 16">
-                            <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877zM11 .5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V1.707l-4.146 4.147a.5.5 0 0 1-.708-.708L14.293 1H11.5a.5.5 0 0 1-.5-.5" />
-                        </svg>
+                             <div class="contact-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-telephone-outbound" viewBox="0 0 16 16">
+                                     <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877zM11 .5a.5.5 0 0 1 .5-.5h4a.5.5 0 0 1 .5.5v4a.5.5 0 0 1-1 0V1.707l-4.146 4.147a.5.5 0 0 1-.708-.708L14.293 1H11.5a.5.5 0 0 1-.5-.5" />
+                                 </svg>
+                             </div>
+                             <div class="contact-info">
+                                 <div class="leadsuresubheading text-light">Call Us 24/7</div>
+                                 <p class="leadsurepara text-light">+91 8048953634</p>
+                             </div>
                          </div>
-                         <div class="contact-info">
-                             <div class="leadsuresubheading text-light">Call Us 24/7</div>
-                             <p class="leadsurepara text-light">(+256) 2145.2156</p>
-                         </div>
-                     </div>
 
-                     <div class="contact-itemf">
-                         <div class="contact-icon">
-                             <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-envelope-paper-heart" viewBox="0 0 16 16">
-                            <path fill-rule="evenodd" d="M2 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v1.133l.941.502A2 2 0 0 1 16 5.4V14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V5.4a2 2 0 0 1 1.059-1.765L2 3.133zm0 2.267-.47.25A1 1 0 0 0 1 5.4v.817l1 .6zm1 3.15 3.75 2.25L8 8.917l1.25.75L13 7.417V2a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1zm11-.6 1-.6V5.4a1 1 0 0 0-.53-.882L14 4.267zM8 2.982C9.664 1.309 13.825 4.236 8 8 2.175 4.236 6.336 1.31 8 2.982m7 4.401-4.778 2.867L15 13.117zm-.035 6.88L8 10.082l-6.965 4.18A1 1 0 0 0 2 15h12a1 1 0 0 0 .965-.738ZM1 13.116l4.778-2.867L1 7.383v5.734Z" />
-                        </svg>
+                         <div class="contact-itemf">
+                             <div class="contact-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-envelope-paper-heart" viewBox="0 0 16 16">
+                                     <path fill-rule="evenodd" d="M2 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v1.133l.941.502A2 2 0 0 1 16 5.4V14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V5.4a2 2 0 0 1 1.059-1.765L2 3.133zm0 2.267-.47.25A1 1 0 0 0 1 5.4v.817l1 .6zm1 3.15 3.75 2.25L8 8.917l1.25.75L13 7.417V2a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1zm11-.6 1-.6V5.4a1 1 0 0 0-.53-.882L14 4.267zM8 2.982C9.664 1.309 13.825 4.236 8 8 2.175 4.236 6.336 1.31 8 2.982m7 4.401-4.778 2.867L15 13.117zm-.035 6.88L8 10.082l-6.965 4.18A1 1 0 0 0 2 15h12a1 1 0 0 0 .965-.738ZM1 13.116l4.778-2.867L1 7.383v5.734Z" />
+                                 </svg>
+                             </div>
+                             <div class="contact-info">
+                                 <div class="leadsuresubheading text-light">Work with us</div>
+                                 <p class="leadsurepara text-light">info@reliable.com</p>
+                             </div>
                          </div>
-                         <div class="contact-info">
-                             <div class="leadsuresubheading text-light">Work with us</div>
-                             <p class="leadsurepara text-light">info@Invena.com</p>
-                         </div>
-                     </div>
 
-                     <div class="contact-itemf">
-                         <div class="contact-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-geo-alt" viewBox="0 0 16 16">
-  <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10"/>
-  <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
-</svg>
+                         <div class="contact-itemf">
+                             <div class="contact-icon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="#ffffff" class="bi bi-geo-alt" viewBox="0 0 16 16">
+                                     <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A32 32 0 0 1 8 14.58a32 32 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10" />
+                                     <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6" />
+                                 </svg>
+                             </div>
+                             <div class="contact-info">
+                                 <div class="leadsuresubheading text-light">Our Location</div>
+                                 <p class="leadsurepara text-light">Khasra No.414, Laxman Vihar Phase-Ii Post Office Wali Gali Gurugram - 122001, Haryana, India</p>
+                             </div>
                          </div>
-                         <div class="contact-info">
-                             <div class="leadsuresubheading text-light">Our Location</div>
-                             <p class="leadsurepara text-light">XYZ Hilton Street, 125 Town<br>United State</p>
-                         </div>
-                     </div>
                      </ul>
                  </div>
-              
+
+                  <div class=" mb-2 mb-md-4">
+
+
+
+             <div class="leadsureheading text-light">Popular Searches</div>
+
+
+
+
+
+             <ul class="foot08-popular-list">
+
+
+                 <li><a href="#" title="Bathroom Ceiling Shower">BGA Rework Station |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">R 5860 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">R 6860 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">Fume Extractor |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">BK 261 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">BK 262 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">ESD Chair |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">ESD Tester |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">Surface Resistivity meter |</a></li>
+
+                 <li><a href="#" title="Bathroom Ceiling Shower">Esd Footwear and wrist band Tester |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">Human Body Voltage Checker |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">Body static discharge dissipator |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">Esd Pole |</a></li>
+
+                 <li><a href="#" title="Bathroom Ceiling Shower">Soldering Station Bakon |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">BK3300A |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">BK1000 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">BK373 |</a></li>
+
+                 <li><a href="#" title="Bathroom Ceiling Shower">SBK936 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">BK90 |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">5X |</a></li>
+                 <li><a href="#" title="Bathroom Ceiling Shower">10X</a></li>
+
+
+
+
+
+
+             </ul>
+
+         </div>
+
 
              </div>
          </div>
+
+        
 
          <!-- Copyright Area -->
          <div class="footer-bottom">
              <div class="container">
                  <div class="row align-items-center">
-                     <div class="col-md-6 text-center text-md-start">
+                     <div class="col-md-4 text-center text-md-start mt-2 mt-md-0">
+                         Design and Developed by Lead sure Media Pvt Ltd
+                     </div>
+                     <div class="col-md-4 text-center text-md-start">
                          Reliable – Copyright 2025. All rights reserved.
                      </div>
-                     <div class="col-md-6 text-center text-md-end mt-2 mt-md-0 bottom-links">
-                         <a href="#">Privacy Policy</a>
-                         <a href="#">Terms & Condition</a>
+                     <div class="col-md-4 text-center text-md-end mt-2 mt-md-0 bottom-links">
+                         <a href="privacy.php">Privacy Policy</a>
+                         <a href="sitemap.php">SiteMap</a>
+                         <a href="marketArea.php">Marker area</a>
+
                      </div>
                  </div>
              </div>

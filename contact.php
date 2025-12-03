@@ -18,13 +18,13 @@
     <main>
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
-       <div class="img-breadcum">
-      <div class="container">
-        <img src="https://media.istockphoto.com/id/1006169700/photo/repairman-checking-voltage-with-digital-multimeter.jpg?s=612x612&w=0&k=20&c=XsSFNl68i6oTtSQQNo3K2Zur2TGuS5CZL233pSZa4rE=" title="About Us" alt="About Us" />
-        <div class="sub-tt">ESD Products and SMT Consumables Supplier in India</div>
-        <div class="tt">ESD Products supplier in India</div>
-      </div>
-    </div>
+        <div class="img-breadcum">
+            <div class="container">
+                <img src="https://media.istockphoto.com/id/1006169700/photo/repairman-checking-voltage-with-digital-multimeter.jpg?s=612x612&w=0&k=20&c=XsSFNl68i6oTtSQQNo3K2Zur2TGuS5CZL233pSZa4rE=" title="About Us" alt="About Us" />
+                <div class="sub-tt">ESD Products and SMT Consumables Supplier in India</div>
+                <div class="tt">ESD Products supplier in India</div>
+            </div>
+        </div>
         <div class="breadcum-sec">
             <div class="container">
                 <ul>
@@ -38,7 +38,7 @@
 
 
 
-       <section class="postreq  leadsure">
+        <section class="postreq  leadsure">
             <div class="container">
 
                 <div class="contact-card">
@@ -89,7 +89,7 @@
                                         <div class="info-content">
                                             <div class="leadsuresubheading text-light">Our Location</div>
                                             <p class="leadsurepara text-light">Khasra No.414, Laxman Vihar Phase-Ii Post Office Wali Gali
-Gurugram - 122001, Haryana, India</p>
+                                                Gurugram - 122001, Haryana, India</p>
                                         </div>
                                     </div>
                                 </div>
@@ -191,9 +191,9 @@ Gurugram - 122001, Haryana, India</p>
 
         </section>
 
-         <div class="map-container-51">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7013.842246339477!2d77.0016235411122!3d28.481921983320674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d17ad434f447d%3A0x6318402da9bc97d8!2sRELIABLE%20SPARES%20AND%20CONSUMABLES!5e0!3m2!1sen!2sin!4v1764670361096!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div>
+        <div class="map-container-51">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7013.842246339477!2d77.0016235411122!3d28.481921983320674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d17ad434f447d%3A0x6318402da9bc97d8!2sRELIABLE%20SPARES%20AND%20CONSUMABLES!5e0!3m2!1sen!2sin!4v1764670361096!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
 
 
 

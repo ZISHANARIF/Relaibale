@@ -179,7 +179,7 @@
             <div class="product-display-areamodal">
               <div class="leadsuresubheading colordhead mb-2">ESD Products</div>
 
-              <div class="product-image-containermodal">
+              <div class="product-image-containermodal mb-3 mb-md-0">
                 <!-- Placeholder for Pump Image -->
                 <img src="https://media.istockphoto.com/id/514264952/photo/sensor-scanning.jpg?s=612x612&w=0&k=20&c=0Mao-hqpdQG1HT2pyX4_cutWMLbYOaWH2fMJC-r4J2o=" alt="Rotary Barrel Pump" class="product-imgmodal">
               </div>

@@ -49,67 +49,74 @@
 
                         <ul class="sitemapsubcat">
                             <li class="sitemapcat">
-                                <a class="sitemapcat"><a href="#" title="lorem ipsum">T-shirt Printing</a>
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">BGA Rework Station</a>
                                     <ul class="sitemapsubcat">
-                                        <li><a href="#" title="Tshirt Printing Service">T-shirt Printing Service</a></li>
-                                        <li><a href="#" title="Custom Tshirt Printing">Custom T-shirt Printing</a></li>
-                                        <li><a href="#" title="Logo Tshirt Print">Logo T-shirt Print</a></li>
-                                        <li><a href="#" title="Polo Tshirt Printing">Polo T-shirt Printing</a></li>
-                                        <li><a href="#" title="Tshirt Printing Shop">T-shirt Printing Shop</a></li>
-                                        <li><a href="#" title="Corporate Tshirt">Corporate T-shirt</a></li>
-                                        <li><a href="#" title="Personalized T Shirt">Personalized T-Shirt</a></li>
-                                        <li><a href="#" title="Promotional T Shirts">Promotional T-Shirts</a></li>
-                                        <li><a href="#" title="Promotional Cotton T Shirts">Promotional Cotton T-Shirts</a></li>
-                                        <li><a href="#" title="Promotional Polo T Shirts">Promotional Polo T-Shirts</a></li>
-                                         <li><a href="#" title="Polo Tshirt Printing">Promotional Jackets</a></li>
-                                        <li><a href="#" title="Tshirt Printing Shop">Sublimation T-Shirt</a></li>
-                                        <li><a href="#" title="Corporate Tshirt">Gym T-Shirt Printing</a></li>
-                                        <li><a href="#" title="Personalized T Shirt">Sports T-Shirt Printing</a></li>
-                                        <li><a href="#" title="Promotional T Shirts">T-Shirt Digital Printing</a></li>
-                                        <li><a href="#" title="Promotional Cotton T Shirts">Collar T-Shirt Printing</a></li>
-                                        <li><a href="#" title="Promotional Polo T Shirts">Customized Polo T-Shirts</a></li>
-
+                                        <li><a href="#" title="Tshirt Printing Service">R 5860</a></li>
+                                        <li><a href="#" title="Custom Tshirt Printing">R 6860</a></li>
                                     </ul>
                             </li>
 
 
 
                             <li class="sitemapcat">
-                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Hoodie Printing</a>
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Fume Extractor</a>
                                     <ul class="sitemapsubcat">
-                                        <li><a href="#" title="Hoodie Printing Service">Hoodie Printing Service</a></li>
-                                        <li><a href="#" title="Sweatshirt Printing Service">Sweatshirt Printing Service</a></li>
-                                        <li><a href="#" title="Custom Hoodies">Custom Hoodies</a></li>
-                                        <li><a href="#" title="Customised Hoodies">Customised Hoodies</a></li>
-                                        <li><a href="#" title="Promotional Hoodies">Promotional Hoodies</a></li>
-                                        <li><a href="#" title="Promotional Sweatshirts">Promotional Sweatshirts</a></li>
-
+                                        <li><a href="#" title="Hoodie Printing Service">BK 261</a></li>
+                                        <li><a href="#" title="Sweatshirt Printing Service">BK 262</a></li>
                                     </ul>
                             </li>
                             <li class="sitemapcat">
-                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Cap Printing </a>
-                                    <ul class="sitemapsubcat">
-                                        <li><a href="#" title="Custom Print Caps">Custom Print Caps</a></li>
-                                        <li><a href="#" title="Cap Printing Shop">Cap Printing Shop</a></li>
-                                        <li><a href="#" title="Cap Printing Service">Cap Printing Service</a></li>
-                                        <li><a href="#" title="Promotional Cap">Promotional Cap</a></li>
-                                        <li><a href="#" title="Corporate Promotional Caps">Corporate Promotional Caps</a></li>
-                                        <li><a href="#" title="Promotional Sports Caps">Promotional Sports Caps</a></li>
-                                    </ul>
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">ESD Chair </a>
+                                  
                             </li>
 
 
                             <li class="sitemapcat">
-                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Umbrella Printing</a>
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">ESD Tester</a>
                                     <ul class="sitemapsubcat">
-                                        <li><a href="#" title="lorem ipsum">Print Umbrella</a></li>
-                                        <li><a href="#" title="Printed Promotional Umbrella">Printed Promotional Umbrella</a></li>
-                                        <li><a href="#" title="Umbrella Printing Service">Umbrella Printing Service</a></li>
-                                        <li><a href="#" title="Promotional Umbrella">Promotional Umbrella</a></li>
-                                        <li><a href="#" title="Corporate Promotional Umbrella">Corporate Promotional Umbrella</a></li>
-                                        <li><a href="#" title="Promotional Umbrellas Printing Services">Promotional Umbrellas Printing Services</a></li>
-                                        <li><a href="#" title="PVC Umbrella Printing Service">PVC Umbrella Printing Service</a></li>
-                                        <li><a href="#" title="Custom Umbrella Printing">Custom Umbrella Printing</a></li>
+                                        <li><a href="#" title="lorem ipsum">Surface Resistivity meter</a></li>
+                                        <li><a href="#" title="Printed Promotional Umbrella">Esd Footwear and wrist band Tester</a></li>
+                                        <li><a href="#" title="Umbrella Printing Service">Human Body Voltage Checker</a></li>
+                                        <li><a href="#" title="Promotional Umbrella">Body static discharge dissipator</a></li>
+                                        <li><a href="#" title="Corporate Promotional Umbrella">Esd Pole</a></li>
+                                    </ul>
+                            </li>
+
+                            <li class="sitemapcat">
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Soldering Station Bakon</a>
+                                    <ul class="sitemapsubcat">
+                                        <li><a href="#" title="lorem ipsum">BK3300A</a></li>
+                                        <li><a href="#" title="Printed Promotional Umbrella">BK1000</a></li>
+                                        <li><a href="#" title="Umbrella Printing Service">BK373</a></li>
+                                        <li><a href="#" title="Promotional Umbrella">SBK936</a></li>
+                                        <li><a href="#" title="Corporate Promotional Umbrella">BK90</a></li>
+                                    </ul>
+                            </li>
+                              <li class="sitemapcat">
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Peelable Solder Mask </a>
+                                  
+                            </li>
+
+                              <li class="sitemapcat">
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Stencil Cleaning Rolls</a>
+                                  
+                            </li>
+
+                              <li class="sitemapcat">
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">PCB Trolley</a>
+                                  
+                            </li>
+                            <li class="sitemapcat">
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Pneumatic Screw Driver Drebon</a>
+                                  
+                            </li>
+
+                             <li class="sitemapcat">
+                                <a class="sitemapcat"><a href="#" title="lorem ipsum">Magnifying Lamp</a>
+                                    <ul class="sitemapsubcat">
+                                        <li><a href="#" title="lorem ipsum">5X</a></li>
+                                        <li><a href="#" title="Printed Promotional Umbrella">10X</a></li>
+                                        <li><a href="#" title="Umbrella Printing Service">20X</a></li>
                                     </ul>
                             </li>
 

@@ -1,5 +1,5 @@
 <header>
-    <div class="top-bar" bis_skin_checked="1">
+    <div class="top-bar mobile_hide" bis_skin_checked="1">
 
         <div class="container-fluid" bis_skin_checked="1">
 
